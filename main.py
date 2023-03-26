@@ -3,8 +3,8 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 
 translator = Translator(service_urls=['translate.googleapis.com'])
 
-hostName = "localhost"
-serverPort = 8080
+hostName = "tiny-morse-translate.vercel.app"
+serverPort = 80
 
 class MyServer(BaseHTTPRequestHandler):
     def do_POST(self):
@@ -17,6 +17,12 @@ class MyServer(BaseHTTPRequestHandler):
         self.send_header("Content-type", "text/html")
         self.end_headers()
         self.wfile.write(translated.text.encode())
+
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+        self.wfile.write("make a post request".encode())
 
 if __name__ == "__main__":        
     webServer = HTTPServer((hostName, serverPort), MyServer)
