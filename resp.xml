@@ -1,0 +1,4769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml leorendertarget="1" dictQueryXSLT="0" lion="0" api="webdt/1" lp="ende" lang="de">
+    <advMedia url="/advMedia/ende-5d00113b.xml"/>
+    <search original="haus" normalized="haus" where="0" lp="ende" lang="de" hitcount="100" hitWordCntLeft="0" hitWordCntRight="100" canonicalSearch="Haus" canonicalSource="table/all"/>
+    <sectionlist sectionsort="bestPrio">
+        <section sctnum="0" sctName="subst" sctTitle="Substantive" sctCount="14" sctTotalCnt="87" sctDirectCnt="4">
+            <entry uid="144629" aiid="Jnsl0vfBL6O" langlvl="B">
+                <side hc="0" lang="en">
+                    <repr xml:space="preserve">
+                        <sr t="home">home</sr>
+                    </repr>
+                    <words>
+                        <word>home</word>
+                    </words>
+                    <pwords>
+                        <pword>
+                            <sr r="3">home</sr>
+                        </pword>
+                    </pwords>
+                    <search>
+                        <word>home</word>
+                    </search>
+                    <ibox ajaxid="1144629">
+                        <extlink/>
+                        <pron url="YZ038EpgbX_Z5jOdw1j_Qw">
+                            <file name="YZ038EpgbX_Z5jOdw1j_Qw" label="home"/>
+                        </pron>
+                    </ibox>
+                </side>
+                <side hc="1" lang="de">
+                    <repr xml:space="preserve">
+                        <sr t="das">das</sr>
+                        <sr t="Haus">
+                            <b>Haus</b>
+                        </sr> &#160;<flecttabref>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i> die Häuser</small>
+                    </flecttabref>
+                </repr>
+                <words>
+                    <word>das Haus</word>
+                </words>
+                <pwords>
+                    <pword>
+                        <sr r="1">das</sr>
+                        <sr r="3">Haus</sr>
+                    </pword>
+                </pwords>
+                <search>
+                    <word>Haus</word>
+                </search>
+                <ibox ajaxid="3144629">
+                    <extlink/>
+                    <pron url="UjyTjzX3VgXctD244t9yOA">
+                        <file name="UjyTjzX3VgXctD244t9yOA" label="das Haus"/>
+                    </pron>
+                    <flecttab deprecated="true" stemType="noun" url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" word="Haus"/>
+                    <flexmain>
+                        <tab stemType="noun" table="4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" label="Haus"/>
+                    </flexmain>
+                </ibox>
+            </side>
+            <info>
+                <category type="noun" catnum="0"/>
+            </info>
+        </entry>
+        <entry uid="146040" aiid="LwGp2cPXZC4" langlvl="B">
+            <side hc="0" lang="en">
+                <repr xml:space="preserve">
+                    <sr t="house">house</sr>
+                    <m>&#160;</m>
+                    <small>
+                        <i>
+                            <m>-</m>
+                            <m>
+                                <t n="pl_ext">pl.:</t>
+                            </m>
+                        </i> houses</small>
+                </repr>
+                <words>
+                    <word>house</word>
+                </words>
+                <pwords>
+                    <pword>
+                        <sr r="3">house</sr>
+                    </pword>
+                </pwords>
+                <search>
+                    <word>house</word>
+                </search>
+                <ibox ajaxid="1146040">
+                    <extlink/>
+                    <pron url="Zd_rWRjsk7n9PM9WTo_NHg">
+                        <file name="Zd_rWRjsk7n9PM9WTo_NHg" label="house"/>
+                    </pron>
+                </ibox>
+            </side>
+            <side hc="1" lang="de">
+                <repr xml:space="preserve">
+                    <sr t="das">das</sr>
+                    <sr t="Haus">
+                        <b>Haus</b>
+                    </sr> &#160;<flecttabref>
+                    <small>
+                        <i>
+                            <m>
+                                <t n="forms_pl_form">Pl.:</t>
+                            </m>
+                        </i> die Häuser</small>
+                </flecttabref>
+            </repr>
+            <words>
+                <word>das Haus</word>
+            </words>
+            <pwords>
+                <pword>
+                    <sr r="1">das</sr>
+                    <sr r="3">Haus</sr>
+                </pword>
+            </pwords>
+            <search>
+                <word>Haus</word>
+            </search>
+            <ibox ajaxid="3146040">
+                <extlink/>
+                <pron url="UjyTjzX3VgXctD244t9yOA">
+                    <file name="UjyTjzX3VgXctD244t9yOA" label="das Haus"/>
+                </pron>
+                <flecttab deprecated="true" stemType="noun" url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" word="Haus"/>
+                <flexmain>
+                    <tab stemType="noun" table="4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" label="Haus"/>
+                </flexmain>
+            </ibox>
+        </side>
+        <info>
+            <category type="noun" catnum="0"/>
+        </info>
+    </entry>
+    <entry uid="1146939" aiid="pYWt954fdY">
+        <side hc="0" lang="en">
+            <repr xml:space="preserve">House <m>&#160;</m>
+                <m>&#160;</m>
+                <small>
+                    <i>
+                        <m>
+                            <t n="also">or:</t>
+                        </m>
+                    </i>
+                </small>
+                <sr t="house">house</sr>
+                <m>&#160;</m>
+                <m>&#160;</m>
+                <m>-</m>
+                <small>
+                    <i>dynasty, family lineage</i>
+                </small>
+            </repr>
+            <words>
+                <word>House</word>
+                <word>house</word>
+            </words>
+            <pwords>
+                <pword>
+                    <sr r="3">House</sr>
+                </pword>
+                <pword>
+                    <sr r="3">house</sr>
+                </pword>
+            </pwords>
+            <search>
+                <word>House</word>
+                <word>house</word>
+            </search>
+            <ibox ajaxid="11146939">
+                <extlink/>
+                <pron url="Zd_rWRjsk7n9PM9WTo_NHg">
+                    <file name="Zd_rWRjsk7n9PM9WTo_NHg" label="House"/>
+                </pron>
+            </ibox>
+        </side>
+        <side hc="1" lang="de">
+            <repr xml:space="preserve">
+                <sr t="das">das</sr>
+                <sr t="Haus">
+                    <b>Haus</b>
+                </sr> &#160;<flecttabref>
+                <small>
+                    <i>
+                        <m>
+                            <t n="forms_pl_form">Pl.:</t>
+                        </m>
+                    </i> die Häuser</small>
+            </flecttabref>
+            <m>&#160;</m>
+            <m>&#160;</m>
+            <m>-</m>
+            <small>
+                <i>Dynastie, Geschlecht</i>
+            </small>
+        </repr>
+        <words>
+            <word>das Haus</word>
+        </words>
+        <pwords>
+            <pword>
+                <sr r="1">das</sr>
+                <sr r="3">Haus</sr>
+            </pword>
+        </pwords>
+        <search>
+            <word>Haus</word>
+        </search>
+        <ibox ajaxid="31146939">
+            <extlink/>
+            <pron url="UjyTjzX3VgXctD244t9yOA">
+                <file name="UjyTjzX3VgXctD244t9yOA" label="das Haus"/>
+            </pron>
+            <flecttab deprecated="true" stemType="noun" url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" word="Haus"/>
+            <flexmain>
+                <tab stemType="noun" table="4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" label="Haus"/>
+            </flexmain>
+        </ibox>
+    </side>
+    <info>
+        <category type="noun" catnum="0"/>
+    </info>
+</entry>
+<entry uid="953709" aiid="JZBxQ6wGDpZ">
+    <side hc="0" lang="en">
+        <repr xml:space="preserve">
+            <sr t="financial">financial</sr>
+            <sr t="institution">institution</sr>
+            <domain>
+                <small>[                    <m>
+                        <t n="rea_finan:up">FINAN.</t>
+                    </m>]
+                </small>
+            </domain>
+        </repr>
+        <words>
+            <word>financial institution</word>
+        </words>
+        <pwords>
+            <pword>
+                <sr r="3">financial</sr>
+                <sr r="3">institution</sr>
+            </pword>
+        </pwords>
+        <search>
+            <word>financial</word>
+            <word>institution</word>
+        </search>
+        <ibox ajaxid="1953709">
+            <extlink/>
+            <pron url="8MhR72iJm9St8j-zU_r-ew">
+                <file name="8MhR72iJm9St8j-zU_r-ew" label="financial institution"/>
+            </pron>
+        </ibox>
+    </side>
+    <side hc="1" lang="de">
+        <repr xml:space="preserve">
+            <sr t="das">das</sr>
+            <sr t="Haus">
+                <b>Haus</b>
+            </sr> &#160;<flecttabref>
+            <small>
+                <i>
+                    <m>
+                        <t n="forms_pl_form">Pl.:</t>
+                    </m>
+                </i> die Häuser</small>
+        </flecttabref>
+    </repr>
+    <words>
+        <word>das Haus</word>
+    </words>
+    <pwords>
+        <pword>
+            <sr r="1">das</sr>
+            <sr r="3">Haus</sr>
+        </pword>
+    </pwords>
+    <search>
+        <word>Haus</word>
+    </search>
+    <ibox ajaxid="3953709">
+        <extlink/>
+        <popup/>
+        <pron url="UjyTjzX3VgXctD244t9yOA">
+            <file name="UjyTjzX3VgXctD244t9yOA" label="das Haus"/>
+        </pron>
+        <flecttab deprecated="true" stemType="noun" url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" word="Haus"/>
+        <flexmain>
+            <tab stemType="noun" table="4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" label="Haus"/>
+        </flexmain>
+    </ibox>
+</side>
+<info>
+    <category type="noun" catnum="0"/>
+    <realmgroup type="economy"/>
+</info>
+</entry>
+<entry uid="97872" aiid="IqrszuMSZ_J">
+<side hc="0" lang="en">
+    <repr xml:space="preserve">domicile</repr>
+    <words>
+        <word>domicile</word>
+    </words>
+    <pwords>
+        <pword>
+            <sr r="3">domicile</sr>
+        </pword>
+    </pwords>
+    <search>
+        <word>domicile</word>
+    </search>
+    <ibox ajaxid="197872">
+        <extlink/>
+        <pron url="KsdQJwUZx8VPFz5nmY87Ww">
+            <file name="KsdQJwUZx8VPFz5nmY87Ww" label="domicile"/>
+        </pron>
+    </ibox>
+</side>
+<side hc="1" lang="de">
+    <repr xml:space="preserve">
+        <sr t="das">das</sr>
+        <sr t="Haus">
+            <b>Haus</b>
+        </sr> &#160;<flecttabref>
+        <small>
+            <i>
+                <m>
+                    <t n="forms_pl_form">Pl.:</t>
+                </m>
+            </i> die Häuser</small>
+    </flecttabref>
+</repr>
+<words>
+    <word>das Haus</word>
+</words>
+<pwords>
+    <pword>
+        <sr r="1">das</sr>
+        <sr r="3">Haus</sr>
+    </pword>
+</pwords>
+<search>
+    <word>Haus</word>
+</search>
+<ibox ajaxid="397872">
+    <extlink/>
+    <pron url="UjyTjzX3VgXctD244t9yOA">
+        <file name="UjyTjzX3VgXctD244t9yOA" label="das Haus"/>
+    </pron>
+    <flecttab deprecated="true" stemType="noun" url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" word="Haus"/>
+    <flexmain>
+        <tab stemType="noun" table="4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9Cl7UOotQIZTe1ZZGmUtAhtXfGtCSkMwMRyt1S3ZIvIH_RfOzmKulS5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAA6Ce" label="Haus"/>
+    </flexmain>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<entry uid="995163" aiid="CdPsqLXboN6">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+    <sr t="house">house</sr>
+    <sr t="and">and</sr>
+    <sr t="farm">farm</sr>
+</repr>
+<words>
+    <word>house and farm</word>
+</words>
+<pwords>
+    <pword>
+        <sr r="3">house</sr>
+        <sr r="1">and</sr>
+        <sr r="3">farm</sr>
+    </pword>
+</pwords>
+<search>
+    <word>house</word>
+    <word>farm</word>
+</search>
+<ibox ajaxid="1995163">
+    <extlink/>
+    <pron url="ySgnFzRflamKl8Jzqf1P-w">
+        <file name="ySgnFzRflamKl8Jzqf1P-w" label="house and farm"/>
+    </pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+    <sr t="Haus">
+        <b>Haus</b>
+    </sr>
+    <sr t="und">und</sr>
+    <sr t="Hof">Hof</sr>
+</repr>
+<words>
+    <word>Haus und Hof</word>
+</words>
+<pwords>
+    <pword>
+        <sr r="3">Haus</sr>
+        <sr r="2">und</sr>
+        <sr r="3">Hof</sr>
+    </pword>
+</pwords>
+<search>
+    <word>Haus</word>
+    <word>Hof</word>
+</search>
+<ibox ajaxid="3995163">
+    <extlink/>
+    <linguatec text="Haus und Hof"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<entry uid="138054" aiid="Jaac-zIB0W9">
+<side hc="0" lang="en">
+<repr xml:space="preserve">guildhall</repr>
+<words>
+    <word>guildhall</word>
+</words>
+<pwords>
+    <pword>
+        <sr r="3">guildhall</sr>
+    </pword>
+</pwords>
+<search>
+    <word>guildhall</word>
+</search>
+<ibox ajaxid="1138054">
+    <extlink/>
+    <pron url="Vx8dC1nQcFrmGyRdABryjQ">
+        <file name="Vx8dC1nQcFrmGyRdABryjQ" label="guildhall"/>
+    </pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+    <sr t="Haus">
+        <b>Haus</b>
+    </sr>
+    <sr t="der">der</sr> Innungen</repr>
+<words>
+    <word>Haus der Innungen</word>
+</words>
+<pwords>
+    <pword>
+        <sr r="3">Haus</sr>
+        <sr r="1">der</sr>
+        <sr r="3">Innungen</sr>
+    </pword>
+</pwords>
+<search>
+    <word>Haus</word>
+    <word>Innungen</word>
+</search>
+<ibox ajaxid="3138054">
+    <extlink/>
+    <linguatec text="Haus der Innungen"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<entry uid="1152745" aiid="KntDJbrLeu8">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+    <sr t="the">the</sr> House <sr t="of">of</sr> Bourbon <domain>
+    <small>[        <m>
+            <t n="rea_hist:up">HIST.</t>
+        </m>]
+    </small>
+</domain>
+</repr>
+<words>
+<word>the House of Bourbon</word>
+</words>
+<pwords>
+<pword>
+    <sr r="1">the</sr>
+    <sr r="3">House</sr>
+    <sr r="3">of</sr>
+    <sr r="3">Bourbon</sr>
+</pword>
+</pwords>
+<search>
+<word>House</word>
+<word>of</word>
+<word>Bourbon</word>
+</search>
+<ibox ajaxid="11152745">
+<extlink/>
+<pron url="aHbgR2-_kfd09LUxR-0R5A">
+    <file name="aHbgR2-_kfd09LUxR-0R5A" label="the House of Bourbon"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="das">das</sr>
+<sr t="Haus">
+    <b>Haus</b>
+</sr> Bourbon</repr>
+<words>
+<word>das Haus Bourbon</word>
+</words>
+<pwords>
+<pword>
+    <sr r="1">das</sr>
+    <sr r="3">Haus</sr>
+    <sr r="3">Bourbon</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>Bourbon</word>
+</search>
+<ibox ajaxid="31152745">
+<extlink/>
+<linguatec text="das Haus Bourbon"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+<realmgroup type="society"/>
+</info>
+</entry>
+<entry uid="937803" aiid="LWU0YjgWCCP">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="detached">detached</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>detached house</word>
+</words>
+<pwords>
+<pword>
+    <sr r="3">detached</sr>
+    <sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>detached</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1937803">
+<extlink/>
+<pron url="XGIbQZMvVtWJ3PiBti6rLw">
+    <file name="XGIbQZMvVtWJ3PiBti6rLw" label="detached house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">alleinliegendes <sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>alleinliegendes Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">alleinliegendes</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>alleinliegendes</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3937803">
+<extlink/>
+<linguatec text="alleinliegendes Haus"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<entry uid="937806" aiid="HtsmbD6m0XB">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="detached">detached</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>detached house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">detached</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>detached</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1937806">
+<extlink/>
+<pron url="XGIbQZMvVtWJ3PiBti6rLw">
+<file name="XGIbQZMvVtWJ3PiBti6rLw" label="detached house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">freistehendes (<small>
+<i>
+<m>
+    <t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="frei">frei</sr> stehendes) <sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>freistehendes Haus</word>
+<word>frei stehendes Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">frei</sr>stehendes <sr r="3">Haus</sr>
+</pword>
+<pword>
+<sr r="3">frei</sr>
+<sr r="3">stehendes</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>freistehendes</word>
+<word>Haus</word>
+<word>frei</word>
+<word>stehendes</word>
+</search>
+<ibox ajaxid="3937806">
+<extlink/>
+<linguatec text="freistehendes Haus"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<entry uid="996261" aiid="If37MDcUSrv">
+<side hc="0" lang="en">
+<repr xml:space="preserve">sell-out <sr t="house">house</sr>
+</repr>
+<words>
+<word>sell-out house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">sell-out</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>sell-out</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1996261">
+<extlink/>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">ausverkauftes <sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>ausverkauftes Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">ausverkauftes</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>ausverkauftes</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3996261">
+<extlink/>
+<linguatec text="ausverkauftes Haus"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<entry uid="1239202" aiid="EPzhP5t_l3P">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="smart">smart</sr>
+<sr t="home">home</sr>
+</repr>
+<words>
+<word>smart home</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">smart</sr>
+<sr r="3">home</sr>
+</pword>
+</pwords>
+<search>
+<word>smart</word>
+<word>home</word>
+</search>
+<ibox ajaxid="11239202">
+<extlink/>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">intelligentes <sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>intelligentes Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">intelligentes</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>intelligentes</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="31239202">
+<extlink/>
+<linguatec text="intelligentes Haus"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<entry uid="5068" aiid="Et3Y8dR0zez">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="abandoned">abandoned</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>abandoned house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">abandoned</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>abandoned</word>
+<word>house</word>
+</search>
+<ibox ajaxid="15068">
+<extlink/>
+<pron url="73maeth7EgIl1Qv1w0fIZA">
+<file name="73maeth7EgIl1Qv1w0fIZA" label="abandoned house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">verlassenes <sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>verlassenes Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">verlassenes</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>verlassenes</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="35068">
+<extlink/>
+<linguatec text="verlassenes Haus"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<entry uid="777625" aiid="Bk90QZEhHPv">
+<side hc="0" lang="en">
+<repr xml:space="preserve">five-storied<small>
+<sup>
+<m>
+<t n="AE">AE</t>
+</m>
+</sup>
+</small>
+<sr t="house">house</sr>
+<br/>
+five-storeyed<small>
+<sup>
+<m>
+<t n="BE">BE</t>
+</m>
+</sup>
+</small>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>five-storied house</word>
+<word>five-storeyed house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">five-storied</sr>
+<sr r="3">house</sr>
+</pword>
+<pword>
+<sr r="3">five-storeyed</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>five-storied</word>
+<word>house</word>
+<word>five-storeyed</word>
+</search>
+<ibox ajaxid="1777625">
+<extlink/>
+<pron url="fsyohBb61Lw0mOuJisnh7w">
+<file name="fsyohBb61Lw0mOuJisnh7w" label="five-storeyed house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">fünfstöckiges <sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>fünfstöckiges Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">fünfstöckiges</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>fünfstöckiges</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3777625">
+<extlink/>
+<linguatec text="fünfstöckiges Haus"/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+<minprio val="0x3bc820898991ac69" fixedSect="1" cnt="73"/>
+</section>
+<section sctnum="2" sctName="adjadv" sctTitle="Adjektive/Adverbien" sctCount="14" sctTotalCnt="23" sctDirectCnt="6">
+<entry uid="152700" aiid="LNQv_2te4Z9" langlvl="A">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="indoors">indoors</sr>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="grm_adv">adv.</t>
+</m>
+</i>
+</small>
+</repr>
+<words>
+<word>indoors</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">indoors</sr>
+</pword>
+</pwords>
+<search>
+<word>indoors</word>
+</search>
+<ibox ajaxid="1152700">
+<extlink/>
+<pron url="Wd5-OolMCG5TofRIftJtew">
+<file name="Wd5-OolMCG5TofRIftJtew" label="indoors"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr> (<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="Hause">Hause</sr>)
+</repr>
+<words>
+<word>im Haus</word>
+<word>im Hause</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+</pword>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Hause</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>Hause</word>
+</search>
+<ibox ajaxid="3152700">
+<extlink/>
+<pron url="ptPc678FPfLb-r0jaWXokQ">
+<file name="ptPc678FPfLb-r0jaWXokQ" label="im Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adverb" catnum="3"/>
+</info>
+</entry>
+<entry uid="847460" aiid="MKAbSWJyj_-">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="in">in</sr>
+<sr t="the">the</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>in the house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">in</sr>
+<sr r="1">the</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>in</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1847460">
+<extlink/>
+<pron url="mgEpQHlYjFRp01tv7A3f6Q">
+<file name="mgEpQHlYjFRp01tv7A3f6Q" label="in the house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr> (<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="Hause">Hause</sr>)
+</repr>
+<words>
+<word>im Haus</word>
+<word>im Hause</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+</pword>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Hause</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>Hause</word>
+</search>
+<ibox ajaxid="3847460">
+<extlink/>
+<pron url="ptPc678FPfLb-r0jaWXokQ">
+<file name="ptPc678FPfLb-r0jaWXokQ" label="im Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="1145826" aiid="IYQqkxyt9c">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="residential">residential</sr>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="grm_adj">adj.</t>
+</m>
+</i>
+</small>
+</repr>
+<words>
+<word>residential</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">residential</sr>
+</pword>
+</pwords>
+<search>
+<word>residential</word>
+</search>
+<ibox ajaxid="11145826">
+<extlink/>
+<pron url="dMA2akChkJB7KEpze6DX4Q">
+<file name="dMA2akChkJB7KEpze6DX4Q" label="residential"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr> (<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="Hause">Hause</sr>)
+</repr>
+<words>
+<word>im Haus</word>
+<word>im Hause</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+</pword>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Hause</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>Hause</word>
+</search>
+<ibox ajaxid="31145826">
+<extlink/>
+<pron url="ptPc678FPfLb-r0jaWXokQ">
+<file name="ptPc678FPfLb-r0jaWXokQ" label="im Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="846040" aiid="CSyeBzweoJ7">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="inside">inside</sr>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="grm_adj">adj.</t>
+</m>
+</i>
+</small>
+</repr>
+<words>
+<word>inside</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">inside</sr>
+</pword>
+</pwords>
+<search>
+<word>inside</word>
+</search>
+<ibox ajaxid="1846040">
+<extlink/>
+<pron url="3KhwFAAJbqk3Jmk2d4zSAg">
+<file name="3KhwFAAJbqk3Jmk2d4zSAg" label="inside"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr> (<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="Hause">Hause</sr>)
+</repr>
+<words>
+<word>im Haus</word>
+<word>im Hause</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+</pword>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Hause</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>Hause</word>
+</search>
+<ibox ajaxid="3846040">
+<extlink/>
+<pron url="ptPc678FPfLb-r0jaWXokQ">
+<file name="ptPc678FPfLb-r0jaWXokQ" label="im Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="1239424" aiid="NfkbyhKImys">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="in">in</sr>
+<sr t="the">the</sr>
+<sr t="same">same</sr>
+<sr t="building">building</sr>
+</repr>
+<words>
+<word>in the same building</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">in</sr>
+<sr r="1">the</sr>
+<sr r="3">same</sr>
+<sr r="3">building</sr>
+</pword>
+</pwords>
+<search>
+<word>in</word>
+<word>same</word>
+<word>building</word>
+</search>
+<ibox ajaxid="11239424">
+<extlink/>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>im Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+</search>
+<ibox ajaxid="31239424">
+<extlink/>
+<pron url="ptPc678FPfLb-r0jaWXokQ">
+<file name="ptPc678FPfLb-r0jaWXokQ" label="im Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="678964" aiid="MFBhuWE5Fax">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="on">on</sr>
+<sr t="the">the</sr>
+<sr t="house">house</sr>
+<small>
+<i>[<m>
+<t n="phr_coll">coll.</t>
+</m>]
+</i>
+</small>
+</repr>
+<words>
+<word>on the house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">on</sr>
+<sr r="1">the</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>on</word>
+<word>house</word>
+</search>
+<meta>
+<phrasing type="coll"/>
+</meta>
+<ibox ajaxid="1678964">
+<extlink/>
+<pron url="nbeAPUy7k2UWkelYj36WPw">
+<file name="nbeAPUy7k2UWkelYj36WPw" label="on the house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="aufs">aufs</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<small>
+<i>[<m>
+<t n="phr_coll">ugs.</t>
+</m>]
+</i>
+</small>
+</repr>
+<words>
+<word>aufs Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">aufs</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+</search>
+<meta>
+<phrasing type="coll"/>
+</meta>
+<ibox ajaxid="3678964">
+<extlink/>
+<linguatec text="aufs Haus"/>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+<phrasinggroup type="slang"/>
+</info>
+</entry>
+<entry uid="1081666" aiid="MhqSbWDQkyw" langlvl="A">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="downstairs">downstairs</sr>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="grm_adj">adj.</t>
+</m>
+</i>
+</small>
+</repr>
+<words>
+<word>downstairs</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">downstairs</sr>
+</pword>
+</pwords>
+<search>
+<word>downstairs</word>
+</search>
+<ibox ajaxid="11081666">
+<extlink/>
+<pron url="Dj5hYvojMKxX0wTkRAk81A">
+<file name="Dj5hYvojMKxX0wTkRAk81A" label="downstairs"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="unten">unten</sr>
+<sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>unten im Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">unten</sr>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>unten</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="31081666">
+<extlink/>
+<pron url="DhYCXSnZELQNpsZ8fPmLXA">
+<file name="DhYCXSnZELQNpsZ8fPmLXA" label="unten im Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="144746" aiid="EkcRQ36lR6N">
+<side hc="0" lang="en">
+<repr xml:space="preserve">homebound <m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="grm_adj">adj.</t>
+</m>
+</i>
+</small>
+</repr>
+<words>
+<word>homebound</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">homebound</sr>
+</pword>
+</pwords>
+<search>
+<word>homebound</word>
+</search>
+<ibox ajaxid="1144746">
+<extlink/>
+<pron url="q4vKGXTUcl5HD7AgxWS7cg">
+<file name="q4vKGXTUcl5HD7AgxWS7cg" label="homebound"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ans">ans</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="gefesselt">gefesselt</sr>
+</repr>
+<words>
+<word>ans Haus gefesselt</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">ans</sr>
+<sr r="3">Haus</sr>
+<sr r="3">gefesselt</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>gefesselt</word>
+</search>
+<ibox ajaxid="3144746">
+<extlink/>
+<linguatec text="ans Haus gefesselt"/>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="702169" aiid="J5oKBTE_nRJ">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="confined">confined</sr>
+<sr t="indoors">indoors</sr>
+</repr>
+<words>
+<word>confined indoors</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">confined</sr>
+<sr r="3">indoors</sr>
+</pword>
+</pwords>
+<search>
+<word>confined</word>
+<word>indoors</word>
+</search>
+<ibox ajaxid="1702169">
+<extlink/>
+<pron url="OCNJfSnq0Cb-8Lu2AkXejQ">
+<file name="OCNJfSnq0Cb-8Lu2AkXejQ" label="confined indoors"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ans">ans</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="gebunden">gebunden</sr>
+</repr>
+<words>
+<word>ans Haus gebunden</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">ans</sr>
+<sr r="3">Haus</sr>
+<sr r="3">gebunden</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>gebunden</word>
+</search>
+<ibox ajaxid="3702169">
+<extlink/>
+<linguatec text="ans Haus gebunden"/>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="652873" aiid="I41B1Fb3qpK">
+<side hc="0" lang="en">
+<repr xml:space="preserve">housebound <m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="grm_adj">adj.</t>
+</m>
+</i>
+</small>
+</repr>
+<words>
+<word>housebound</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">housebound</sr>
+</pword>
+</pwords>
+<search>
+<word>housebound</word>
+</search>
+<ibox ajaxid="1652873">
+<extlink/>
+<pron url="GIB2AJJHylj9ZEnydjNktA">
+<file name="GIB2AJJHylj9ZEnydjNktA" label="housebound"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ans">ans</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="gefesselt">gefesselt</sr>
+<small>
+<i>[<m>
+<t n="phr_fig">fig.</t>
+</m>]
+</i>
+</small>
+</repr>
+<words>
+<word>ans Haus gefesselt</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">ans</sr>
+<sr r="3">Haus</sr>
+<sr r="3">gefesselt</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>gefesselt</word>
+</search>
+<meta></meta>
+<ibox ajaxid="3652873">
+<extlink/>
+<linguatec text="ans Haus gefesselt"/>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="868246" aiid="HqCnd7HsZyP">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="carriage">carriage</sr>
+<sr t="free">free</sr>
+</repr>
+<words>
+<word>carriage free</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">carriage</sr>
+<sr r="3">free</sr>
+</pword>
+</pwords>
+<search>
+<word>carriage</word>
+<word>free</word>
+</search>
+<ibox ajaxid="1868246">
+<extlink/>
+<pron url="uTHrLJcYNA63aMk8FmIsLQ">
+<file name="uTHrLJcYNA63aMk8FmIsLQ" label="carriage free"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="frei">frei</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>frei Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">frei</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>frei</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3868246">
+<extlink/>
+<pron url="Np-dzNNDIxtvNnu_-03P1Q">
+<file name="Np-dzNNDIxtvNnu_-03P1Q" label="frei Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="702253" aiid="CtsCixJ7ZYg">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="delivered">delivered</sr>
+<sr t="free">free</sr>
+</repr>
+<words>
+<word>delivered free</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">delivered</sr>
+<sr r="3">free</sr>
+</pword>
+</pwords>
+<search>
+<word>delivered</word>
+<word>free</word>
+</search>
+<ibox ajaxid="1702253">
+<extlink/>
+<pron url="UYFSvCg4kTpcv1CsqNY12w">
+<file name="UYFSvCg4kTpcv1CsqNY12w" label="delivered free"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="frei">frei</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>frei Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">frei</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>frei</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3702253">
+<extlink/>
+<pron url="Np-dzNNDIxtvNnu_-03P1Q">
+<file name="Np-dzNNDIxtvNnu_-03P1Q" label="frei Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="702098" aiid="FJxYfyLzwcD">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="carriage">carriage</sr>
+<sr t="paid">paid</sr>
+</repr>
+<words>
+<word>carriage paid</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">carriage</sr>
+<sr r="3">paid</sr>
+</pword>
+</pwords>
+<search>
+<word>carriage</word>
+<word>paid</word>
+</search>
+<ibox ajaxid="1702098">
+<extlink/>
+<pron url="I-KlMay-MRVZ6sLAE8OSPQ">
+<file name="I-KlMay-MRVZ6sLAE8OSPQ" label="carriage paid"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="frei">frei</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>frei Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">frei</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>frei</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3702098">
+<extlink/>
+<pron url="Np-dzNNDIxtvNnu_-03P1Q">
+<file name="Np-dzNNDIxtvNnu_-03P1Q" label="frei Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<entry uid="702781" aiid="PV0tu8srb7S">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="free">free</sr> buyer's <sr t="address">address</sr>
+</repr>
+<words>
+<word>free buyer's address</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">free</sr>
+<sr r="3">buyer's</sr>
+<sr r="3">address</sr>
+</pword>
+</pwords>
+<search>
+<word>free</word>
+<word>buyer's</word>
+<word>address</word>
+</search>
+<ibox ajaxid="1702781">
+<extlink/>
+<pron url="kwM3AdtDLmqj30EHZWpKYg">
+<file name="kwM3AdtDLmqj30EHZWpKYg" label="free buyer&apos;s address"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="frei">frei</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>frei Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">frei</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>frei</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3702781">
+<extlink/>
+<pron url="Np-dzNNDIxtvNnu_-03P1Q">
+<file name="Np-dzNNDIxtvNnu_-03P1Q" label="frei Haus"/>
+</pron>
+</ibox>
+</side>
+<info>
+<category type="adjective" catnum="2"/>
+</info>
+</entry>
+<minprio val="0x3bc8208998d15bf5" fixedSect="3" cnt="9"/>
+</section>
+<section sctnum="4" sctName="definition" sctTitle="Definitionen" sctCount="1" sctTotalCnt="1" sctDirectCnt="0">
+<entry uid="140620" aiid="NLowo8PRBZm">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="haunted">haunted</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>haunted house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">haunted</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>haunted</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1140620">
+<extlink/>
+<pron url="j7S7PfUbueSeVLmEkasYAQ">
+<file name="j7S7PfUbueSeVLmEkasYAQ" label="haunted house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<i>
+<sr t="Haus">
+<b>Haus</b>
+</sr>,<sr t="in">in</sr> dem <sr t="es">es</sr> spukt</i>
+</repr>
+<words>
+<word>Haus, in dem es spukt</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Haus</sr>,<sr r="1">in</sr>
+<sr r="1">dem</sr>
+<sr r="1">es</sr>
+<sr r="1">spukt</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3140620">
+<extlink/>
+</ibox>
+</side>
+<info>
+<category type="noun" catnum="0"/>
+</info>
+</entry>
+</section>
+<section sctnum="1" sctName="verb" sctTitle="Verben" sctCount="14" sctTotalCnt="22" sctDirectCnt="0">
+<entry uid="670496" aiid="DwaGtLBmGwz">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr> economize<small>
+<sup>
+<m>
+<t n="AE">AE</t>
+</m>
+</sup>
+</small>
+<br/>
+to economise<small>
+<sup>
+<m>
+<t n="BE">BE</t>
+</m>
+</sup>
+</small>
+<m> / </m>economize<small>
+<sup>
+<m>
+<t n="BE">BE</t>
+</m>
+</sup>
+</small>  &#160;<flecttabref>
+<small>|&#160;economized, economized / economised, economised&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>to economize</word>
+<word>to economise</word>
+<word>to economize</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">economize</sr>
+</pword>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">economise</sr>
+</pword>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">economize</sr>
+</pword>
+</pwords>
+<search>
+<word>economize</word>
+<word>economise</word>
+</search>
+<ibox ajaxid="1670496">
+<extlink/>
+<pron url="plEFg8xYScPokTscr4VWdg">
+<file name="plEFg8xYScPokTscr4VWdg" label="to economise"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXJXtClKUDp95DaWagA5HfVNsltHXGnW64LCt7_6hM2-RVHTa5ApToRbMviHKUvAqrTygs7MBdwdMuDX_QUsTfXr1AsWKf317iM&amp;kvz=4dkrADn71HeCbYCs67UP8lumz53RnXJXtClKUDp95DaWagA5HfVNsltHXGnW64LCt7_6hM2-RVHTa5ApToRbMviHKUvAqiTygs7MBdwdMuDX_QUsTfXr1AsWKf31kZk" word="economize"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYCs67UP8lumz53RnXJXtClKUDp95DaWagA5HfVNsltHXGnW64LCt7_6hM2-RVHTa5ApToRbMviHKUvAqrTygs7MBdwdMuDX_QUsTfXr1AsWKf317iM" label="economize"/>
+<tab stemType="verb" table="4dkrADn71HeCbYCs67UP8lumz53RnXJXtClKUDp95DaWagA5HfVNsltHXGnW64LCt7_6hM2-RVHTa5ApToRbMviHKUvAqiTygs7MBdwdMuDX_QUsTfXr1AsWKf31kZk" label="economise"/>
+</flexmain>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">haushalten <m>&#160;</m>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="halten">halten</sr> &#160;<flecttabref>
+<small>|&#160;haushaltete, gehaushaltet&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>haushalten</word>
+<word>Haus halten</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">haushalten</sr>
+</pword>
+<pword>
+<sr r="3">Haus</sr>
+<sr r="3">halten</sr>
+</pword>
+</pwords>
+<search>
+<word>haushalten</word>
+<word>Haus</word>
+<word>halten</word>
+</search>
+<ibox ajaxid="3670496">
+<extlink/>
+<pron url="ThOolI-KoTxZF_a6zay_QQ">
+<file name="ThOolI-KoTxZF_a6zay_QQ" label="haushalten"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYC86wUP8lumz53RnXJXdziYUGstROeDW2G9GtS9csqhmeuQbsSmFVl7YJ1a0AHXqwDZ-wLLkz0GKauArRNSBumrnLpb8qLEflZ_HnLs5KyCvz5VP5fRgX8qNvuIReFVy9AIK3JtlMzRjGsATbMFrtlKgB3eAhSUTQb_aBLu1IjBfz4WbBQAdRmb9vtLRFID7SF5HVT6Ak0iT6k" word="haushalten"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYC86wUP8lumz53RnXJXdziYUGstROeDW2G9GtS9csqhmeuQbsSmFVl7YJ1a0AHXqwDZ-wLLkz0GKauArRNSBumrnLpb8qLEflZ_HnLs5KyCvz5VP5fRgX8qNvuIReFVy9AIK3JtlMzRjGsATbMFrtlKgB3eAhSUTQb_aBLu1IjBfz4WbBQAdRmb9vtLRFID7SF5HVT6Ak0iT6k" label="haushalten"/>
+</flexmain>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="796622" aiid="KHDQnN5OOhc">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="budget">budget</sr>  &#160;<flecttabref>
+<small>|&#160;budgeted, budgeted&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>to budget</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">budget</sr>
+</pword>
+</pwords>
+<search>
+<word>budget</word>
+</search>
+<ibox ajaxid="1796622">
+<extlink/>
+<pron url="7vVMuuKAGtCYSUvAN16ndg">
+<file name="7vVMuuKAGtCYSUvAN16ndg" label="to budget"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXH3B-mrUdpdQIZTe1ZZGnQ9Em5XfxvCK9Jixu2d9SotFSHSa1UpS3QqgncnOP2GbgVTgv88Vc2cQmIH7SF5ilQrBA0i1lU" word="budget"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYCs67UP8lumz53RnXH3B-mrUdpdQIZTe1ZZGnQ9Em5XfxvCK9Jixu2d9SotFSHSa1UpS3QqgncnOP2GbgVTgv88Vc2cQmIH7SF5ilQrBA0i1lU" label="budget"/>
+</flexmain>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">haushalten <m>&#160;</m>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="halten">halten</sr> &#160;<flecttabref>
+<small>|&#160;haushaltete, gehaushaltet&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>haushalten</word>
+<word>Haus halten</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">haushalten</sr>
+</pword>
+<pword>
+<sr r="3">Haus</sr>
+<sr r="3">halten</sr>
+</pword>
+</pwords>
+<search>
+<word>haushalten</word>
+<word>Haus</word>
+<word>halten</word>
+</search>
+<ibox ajaxid="3796622">
+<extlink/>
+<pron url="ThOolI-KoTxZF_a6zay_QQ">
+<file name="ThOolI-KoTxZF_a6zay_QQ" label="haushalten"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYC86wUP8lumz53RnXJXdziYUGstROeDW2G9GtS9csqhmeuQbsSmFVl7YJ1a0AHXqwDZ-wLLkz0GKauArRNSBumrnLpb8qLEflZ_HnLs5KyCvz5VP5fRgX8qNvuIReFVy9AIK3JtlMzRjGsATbMFrtlKgB3eAhSUTQb_aBLu1IjBfz4WbBQAdRmb9vtLRFID7SF5HVT6Ak0iT6k" word="haushalten"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYC86wUP8lumz53RnXJXdziYUGstROeDW2G9GtS9csqhmeuQbsSmFVl7YJ1a0AHXqwDZ-wLLkz0GKauArRNSBumrnLpb8qLEflZ_HnLs5KyCvz5VP5fRgX8qNvuIReFVy9AIK3JtlMzRjGsATbMFrtlKgB3eAhSUTQb_aBLu1IjBfz4WbBQAdRmb9vtLRFID7SF5HVT6Ak0iT6k" label="haushalten"/>
+</flexmain>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="796628" aiid="IEsQWHjsJFf">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="husband">husband</sr>  &#160;<flecttabref>
+<small>|&#160;husbanded, husbanded&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>to husband</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">husband</sr>
+</pword>
+</pwords>
+<search>
+<word>husband</word>
+</search>
+<ibox ajaxid="1796628">
+<extlink/>
+<pron url="_jS0iGnL9O1kJjQXAiaGWA">
+<file name="_jS0iGnL9O1kJjQXAiaGWA" label="to husband"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXH3B-mrUdpdQIZTe1ZZGnQ9Em5XfxvCK9Jixu2d9SotFSHSa1UpS9VawijHuV2QffUBoL6-Zn0Og2KUHlCvGtT6lA5XDxAAQyS" word="husband"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYCs67UP8lumz53RnXH3B-mrUdpdQIZTe1ZZGnQ9Em5XfxvCK9Jixu2d9SotFSHSa1UpS9VawijHuV2QffUBoL6-Zn0Og2KUHlCvGtT6lA5XDxAAQyS" label="husband"/>
+</flexmain>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">haushalten <m>&#160;</m>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="halten">halten</sr> &#160;<flecttabref>
+<small>|&#160;haushaltete, gehaushaltet&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>haushalten</word>
+<word>Haus halten</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">haushalten</sr>
+</pword>
+<pword>
+<sr r="3">Haus</sr>
+<sr r="3">halten</sr>
+</pword>
+</pwords>
+<search>
+<word>haushalten</word>
+<word>Haus</word>
+<word>halten</word>
+</search>
+<ibox ajaxid="3796628">
+<extlink/>
+<pron url="ThOolI-KoTxZF_a6zay_QQ">
+<file name="ThOolI-KoTxZF_a6zay_QQ" label="haushalten"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYC86wUP8lumz53RnXJXdziYUGstROeDW2G9GtS9csqhmeuQbsSmFVl7YJ1a0AHXqwDZ-wLLkz0GKauArRNSBumrnLpb8qLEflZ_HnLs5KyCvz5VP5fRgX8qNvuIReFVy9AIK3JtlMzRjGsATbMFrtlKgB3eAhSUTQb_aBLu1IjBfz4WbBQAdRmb9vtLRFID7SF5HVT6Ak0iT6k" word="haushalten"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYC86wUP8lumz53RnXJXdziYUGstROeDW2G9GtS9csqhmeuQbsSmFVl7YJ1a0AHXqwDZ-wLLkz0GKauArRNSBumrnLpb8qLEflZ_HnLs5KyCvz5VP5fRgX8qNvuIReFVy9AIK3JtlMzRjGsATbMFrtlKgB3eAhSUTQb_aBLu1IjBfz4WbBQAdRmb9vtLRFID7SF5HVT6Ak0iT6k" label="haushalten"/>
+</flexmain>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="796627" aiid="N0n68W8tVdf">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr> housekeep  &#160;<flecttabref>
+<small>|&#160;housekept, housekept&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>to housekeep</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">housekeep</sr>
+</pword>
+</pwords>
+<search>
+<word>housekeep</word>
+</search>
+<ibox ajaxid="1796627">
+<extlink/>
+<pron url="jbduKGoGaMUhug3xC_ceww">
+<file name="jbduKGoGaMUhug3xC_ceww" label="to housekeep"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXH317nrUD_9hScDG0HfGwQNAs0iazuQS3MykZxvZlpa1HHSa1B8S6VaYlsHqepQbdcTkN98dh2-AbClvrQOzhLO0loBaLsQzsACrPB" word="housekeep"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYCs67UP8lumz53RnXH317nrUD_9hScDG0HfGwQNAs0iazuQS3MykZxvZlpa1HHSa1B8S6VaYlsHqepQbdcTkN98dh2-AbClvrQOzhLO0loBaLsQzsACrPB" label="housekeep"/>
+</flexmain>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">haushalten <m>&#160;</m>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="halten">halten</sr> &#160;<flecttabref>
+<small>|&#160;haushaltete, gehaushaltet&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>haushalten</word>
+<word>Haus halten</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">haushalten</sr>
+</pword>
+<pword>
+<sr r="3">Haus</sr>
+<sr r="3">halten</sr>
+</pword>
+</pwords>
+<search>
+<word>haushalten</word>
+<word>Haus</word>
+<word>halten</word>
+</search>
+<ibox ajaxid="3796627">
+<extlink/>
+<pron url="ThOolI-KoTxZF_a6zay_QQ">
+<file name="ThOolI-KoTxZF_a6zay_QQ" label="haushalten"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYC86wUP8lumz53RnXJXdziYUGstROeDW2G9GtS9csqhmeuQbsSmFVl7YJ1a0AHXqwDZ-wLLkz0GKauArRNSBumrnLpb8qLEflZ_HnLs5KyCvz5VP5fRgX8qNvuIReFVy9AIK3JtlMzRjGsATbMFrtlKgB3eAhSUTQb_aBLu1IjBfz4WbBQAdRmb9vtLRFID7SF5HVT6Ak0iT6k" word="haushalten"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYC86wUP8lumz53RnXJXdziYUGstROeDW2G9GtS9csqhmeuQbsSmFVl7YJ1a0AHXqwDZ-wLLkz0GKauArRNSBumrnLpb8qLEflZ_HnLs5KyCvz5VP5fRgX8qNvuIReFVy9AIK3JtlMzRjGsATbMFrtlKgB3eAhSUTQb_aBLu1IjBfz4WbBQAdRmb9vtLRFID7SF5HVT6Ak0iT6k" label="haushalten"/>
+</flexmain>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="332914" aiid="cM6hlqwOrn">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="potter">potter</sr>
+<sr t="round">round</sr>
+<sr t="the">the</sr>
+<sr t="house">house</sr>
+<m>&#160;</m>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="h_e">chiefly</t>
+</m>
+<m>&#160;</m>
+</i>
+</small>
+<small>
+<i>(Brit.)</i>
+</small>
+</repr>
+<words>
+<word>to potter round the house</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">potter</sr>
+<sr r="3">round</sr>
+<sr r="1">the</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>potter</word>
+<word>round</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1332914">
+<extlink/>
+<pron url="rUHQGtMUVAmp9gl-QwFb-A">
+<file name="rUHQGtMUVAmp9gl-QwFb-A" label="to potter round the house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr> herumwerkeln</repr>
+<words>
+<word>im Haus herumwerkeln</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+<sr r="3">herumwerkeln</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>herumwerkeln</word>
+</search>
+<ibox ajaxid="3332914">
+<extlink/>
+<linguatec text="im Haus herumwerkeln"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="1221558" aiid="LzIicILk58P">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="live">live</sr>
+<sr t="in">in</sr>
+</repr>
+<words>
+<word>to live in</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">live</sr>
+<sr r="2">in</sr>
+</pword>
+</pwords>
+<search>
+<word>live</word>
+</search>
+<ibox ajaxid="11221558">
+<extlink/>
+<pron url="gy9OqH-LwmCGc9XhE6TDIg">
+<file name="gy9OqH-LwmCGc9XhE6TDIg" label="to live"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="wohnen">wohnen</sr>
+<m>&#160;</m>
+<m>&#160;</m>
+<m>-</m>
+<small>
+<i>Personal</i>
+</small>
+</repr>
+<words>
+<word>im Haus wohnen</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+<sr r="3">wohnen</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>wohnen</word>
+</search>
+<ibox ajaxid="31221558">
+<extlink/>
+<linguatec text="im Haus wohnen"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="330060" aiid="I2Sd1LjgmIr">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="occupy">occupy</sr>
+<sr t="a">a</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>to occupy a house</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">occupy</sr>
+<sr r="1">a</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>occupy</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1330060">
+<extlink/>
+<pron url="DAp5WQBRFJv5TtmAon7ZjQ">
+<file name="DAp5WQBRFJv5TtmAon7ZjQ" label="to occupy a house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ein">ein</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="bewohnen">bewohnen</sr>
+</repr>
+<words>
+<word>ein Haus bewohnen</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">ein</sr>
+<sr r="3">Haus</sr>
+<sr r="3">bewohnen</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>bewohnen</word>
+</search>
+<ibox ajaxid="3330060">
+<extlink/>
+<linguatec text="ein Haus bewohnen"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="339518" aiid="BHckdb1sYSB">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="search">search</sr>
+<sr t="a">a</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>to search a house</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">search</sr>
+<sr r="1">a</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>search</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1339518">
+<extlink/>
+<pron url="nhMSYWaTKyAfVTWJQefe-w">
+<file name="nhMSYWaTKyAfVTWJQefe-w" label="to search a house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ein">ein</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="durchsuchen">durchsuchen</sr>
+</repr>
+<words>
+<word>ein Haus durchsuchen</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">ein</sr>
+<sr r="3">Haus</sr>
+<sr r="3">durchsuchen</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>durchsuchen</word>
+</search>
+<ibox ajaxid="3339518">
+<extlink/>
+<linguatec text="ein Haus durchsuchen"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="326432" aiid="G8_BH9Q_x9C">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="let">let</sr>
+<sr t="a">a</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>to let a house</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">let</sr>
+<sr r="1">a</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>let</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1326432">
+<extlink/>
+<pron url="NLmJ_VML_9-RHDD8nBC5Rg">
+<file name="NLmJ_VML_9-RHDD8nBC5Rg" label="to let a house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ein">ein</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="vermieten">vermieten</sr>
+</repr>
+<words>
+<word>ein Haus vermieten</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">ein</sr>
+<sr r="3">Haus</sr>
+<sr r="3">vermieten</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>vermieten</word>
+</search>
+<ibox ajaxid="3326432">
+<extlink/>
+<linguatec text="ein Haus vermieten"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="463146" aiid="NpNaVOhbkH_">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="be">be</sr>
+<sr t="away">away</sr>
+<sr t="from">from</sr>
+<sr t="the">the</sr>
+<sr t="office">office</sr>
+</repr>
+<words>
+<word>to be away from the office</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">be</sr>
+<sr r="2">away</sr>
+<sr r="2">from</sr>
+<sr r="1">the</sr>
+<sr r="3">office</sr>
+</pword>
+</pwords>
+<search>
+<word>be</word>
+<word>office</word>
+</search>
+<ibox ajaxid="1463146">
+<extlink/>
+<pron url="8e_7UnwVdxAOPrnmAWJwgw">
+<file name="8e_7UnwVdxAOPrnmAWJwgw" label="to be away from the office"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="au%C3%9Fer">außer</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="sein">sein</sr>
+</repr>
+<words>
+<word>außer Haus sein</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">außer</sr>
+<sr r="3">Haus</sr>
+<sr r="3">sein</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>sein</word>
+</search>
+<ibox ajaxid="3463146">
+<extlink/>
+<linguatec text="außer Haus sein"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="463151" aiid="EoXhBp-VSX5">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="be">be</sr>
+<sr t="out">out</sr>
+<sr t="of">of</sr>
+<sr t="the">the</sr>
+<sr t="office">office</sr>
+</repr>
+<words>
+<word>to be out of the office</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">be</sr>
+<sr r="2">out</sr>
+<sr r="2">of</sr>
+<sr r="1">the</sr>
+<sr r="3">office</sr>
+</pword>
+</pwords>
+<search>
+<word>be</word>
+<word>office</word>
+</search>
+<ibox ajaxid="1463151">
+<extlink/>
+<pron url="wyRJsYACYY6_nLX7nLlS_A">
+<file name="wyRJsYACYY6_nLX7nLlS_A" label="to be out of the office"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="au%C3%9Fer">außer</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="sein">sein</sr>
+</repr>
+<words>
+<word>außer Haus sein</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">außer</sr>
+<sr r="3">Haus</sr>
+<sr r="3">sein</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>sein</word>
+</search>
+<ibox ajaxid="3463151">
+<extlink/>
+<linguatec text="außer Haus sein"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="443321" aiid="NZ5q_XNZcFM">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr> burgle <sr t="a">a</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>to burgle a house</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">burgle</sr>
+<sr r="1">a</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>burgle</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1443321">
+<extlink/>
+<pron url="R4W4VCtePwUj9cZv4k2lrg">
+<file name="R4W4VCtePwUj9cZv4k2lrg" label="to burgle a house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="in">in</sr>
+<sr t="ein">ein</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="einbrechen">einbrechen</sr>
+</repr>
+<words>
+<word>in ein Haus einbrechen</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">in</sr>
+<sr r="1">ein</sr>
+<sr r="3">Haus</sr>
+<sr r="3">einbrechen</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>einbrechen</word>
+</search>
+<ibox ajaxid="3443321">
+<extlink/>
+<linguatec text="in ein Haus einbrechen"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="347410" aiid="M2b6dDF6gAU">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="vacate">vacate</sr>
+<sr t="a">a</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>to vacate a house</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">vacate</sr>
+<sr r="1">a</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>vacate</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1347410">
+<extlink/>
+<pron url="-i_p4_jsxQvhOukFFsS-9g">
+<file name="-i_p4_jsxQvhOukFFsS-9g" label="to vacate a house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ein">ein</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="freimachen">freimachen</sr> (<small>
+<i>
+<m>
+<t n="also">auch:</t>
+</m>
+</i>
+</small>
+<sr t="frei">frei</sr>
+<sr t="machen">machen</sr>)
+</repr>
+<words>
+<word>ein Haus freimachen</word>
+<word>ein Haus frei machen</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">ein</sr>
+<sr r="3">Haus</sr>
+<sr r="3">freimachen</sr>
+</pword>
+<pword>
+<sr r="1">ein</sr>
+<sr r="3">Haus</sr>
+<sr r="3">frei</sr>
+<sr r="3">machen</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>freimachen</word>
+<word>frei</word>
+<word>machen</word>
+</search>
+<ibox ajaxid="3347410">
+<extlink/>
+<linguatec text="ein Haus freimachen"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="342290" aiid="Cp9KqP2ETD7">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="squat">squat</sr>  &#160;<flecttabref>
+<small>|&#160;squatted, squatted&#160;|</small>
+</flecttabref>
+</repr>
+<words>
+<word>to squat</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">squat</sr>
+</pword>
+</pwords>
+<search>
+<word>squat</word>
+</search>
+<ibox ajaxid="1342290">
+<extlink/>
+<pron url="6XbPXlBBZlCyKZjRzjXCYA">
+<file name="6XbPXlBBZlCyKZjRzjXCYA" label="to squat"/>
+</pron>
+<flecttab deprecated="true" stemType="verb" url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXH3lvi7VBpd1ecSnSCoGzStd9kBOSsweiRCU98eEcsK1LXSjlHoCgUrFM6Ruo2G3dcigg78Vc-cASIE7SF5ilQr190hg7c" word="squat"/>
+<flexmain>
+<tab stemType="verb" table="4dkrADn71HeCbYCs67UP8lumz53RnXH3lvi7VBpd1ecSnSCoGzStd9kBOSsweiRCU98eEcsK1LXSjlHoCgUrFM6Ruo2G3dcigg78Vc-cASIE7SF5ilQr190hg7c" label="squat"/>
+</flexmain>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<b>Häuser</b>
+<sr t="besetzen">besetzen</sr>
+</repr>
+<words>
+<word>Häuser besetzen</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Häuser</sr>
+<sr r="3">besetzen</sr>
+</pword>
+</pwords>
+<search>
+<word>Häuser</word>
+<word>besetzen</word>
+</search>
+<ibox ajaxid="3342290">
+<extlink/>
+<linguatec text="Häuser besetzen"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<minprio val="0x3bc8a0099154581d" fixedSect="2" cnt="8"/>
+</section>
+<section sctnum="6" sctName="phrase" sctTitle="Wendungen/Ausdrücke" sctCount="8" sctTotalCnt="8" sctDirectCnt="0">
+<entry uid="387127" aiid="ETYfwwr6wil">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="a">a</sr>
+<sr t="house">house</sr>
+<sr t="of">of</sr> one's <sr t="own">own</sr>
+</repr>
+<words>
+<word>a house of one's own</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">a</sr>
+<sr r="3">house</sr>
+<sr r="3">of</sr>
+<sr r="3">one's</sr>
+<sr r="3">own</sr>
+</pword>
+</pwords>
+<search>
+<word>house</word>
+<word>of</word>
+<word>one's</word>
+<word>own</word>
+</search>
+<ibox ajaxid="1387127">
+<extlink/>
+<pron url="MBrgexTns_y46-7p0Y0Sbg">
+<file name="MBrgexTns_y46-7p0Y0Sbg" label="a house of one&apos;s own"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ein">ein</sr>
+<sr t="eigenes">eigenes</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>ein eigenes Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">ein</sr>
+<sr r="3">eigenes</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>eigenes</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3387127">
+<extlink/>
+<linguatec text="ein eigenes Haus"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="392703" aiid="LISENEyb8Jl">
+<side hc="0" lang="en">
+<repr xml:space="preserve">sth. <sr t="is">is</sr>
+<sr t="on">on</sr>
+<sr t="the">the</sr>
+<sr t="house">house</sr>
+<m>&#160;</m>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="inf">infinitive:</t>
+</m>
+</i>
+<m>&#160;</m>
+<sr t="to">to</sr> be on the house</small>
+</repr>
+<words>
+<word>sth. is on the house</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">sth.</sr>
+<sr r="3">is</sr>
+<sr r="2">on</sr>
+<sr r="1">the</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>is</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1392703">
+<extlink/>
+<pron url="dOszLA-Y43SjMwLRlTRsGg">
+<file name="dOszLA-Y43SjMwLRlTRsGg" label="sth. is on the house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">etw.<small>
+<sup>
+<m>
+<t n="grm_nom">Nom.</t>
+</m>
+</sup>
+</small>
+<sr t="geht">geht</sr>
+<sr t="aufs">aufs</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<m>&#160;</m>
+<m>&#160;</m>
+<small>
+<i>
+<m>
+<t n="inf">Infinitiv:</t>
+</m>
+</i>
+<m>&#160;</m>aufs Haus gehen</small>
+</repr>
+<words>
+<word>etw. geht aufs Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">etw.</sr>
+<sr r="3">geht</sr>
+<sr r="2">aufs</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>geht</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3392703">
+<extlink/>
+<linguatec text="etw. geht aufs Haus"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="389620" aiid="KijaPdgyI75">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="house">house</sr>
+<sr t="for">for</sr>
+<sr t="sale">sale</sr>
+</repr>
+<words>
+<word>house for sale</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">house</sr>
+<sr r="3">for</sr>
+<sr r="3">sale</sr>
+</pword>
+</pwords>
+<search>
+<word>house</word>
+<word>for</word>
+<word>sale</word>
+</search>
+<ibox ajaxid="1389620">
+<extlink/>
+<pron url="9KG28oygi2b3xiOysFGr3A">
+<file name="9KG28oygi2b3xiOysFGr3A" label="house for sale"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="zu">zu</sr>
+<sr t="verkaufen">verkaufen</sr>
+</repr>
+<words>
+<word>Haus zu verkaufen</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Haus</sr>
+<sr r="3">zu</sr>
+<sr r="3">verkaufen</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>zu</word>
+<word>verkaufen</word>
+</search>
+<ibox ajaxid="3389620">
+<extlink/>
+<linguatec text="Haus zu verkaufen"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="459629" aiid="MYA-lCT3HKL">
+<side hc="0" lang="en">
+<repr xml:space="preserve">When <sr t="the">the</sr> cat's <sr t="away">away</sr>,<sr t="the">the</sr> mice <sr t="will">will</sr>
+<sr t="play">play</sr>.
+</repr>
+<words>
+<word>When the cat's away, the mice will play.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">When</sr>
+<sr r="1">the</sr>
+<sr r="3">cat's</sr>
+<sr r="3">away</sr>,<sr r="1">the</sr>
+<sr r="3">mice</sr>
+<sr r="3">will</sr>
+<sr r="3">play</sr>.
+</pword>
+</pwords>
+<search>
+<word>When</word>
+<word>cat's</word>
+<word>away</word>
+<word>mice</word>
+<word>will</word>
+<word>play</word>
+</search>
+<ibox ajaxid="1459629">
+<extlink/>
+<pron url="woDFJN1dNzylfivR6cGBzw">
+<file name="woDFJN1dNzylfivR6cGBzw" label="When the cat&apos;s away, the mice will play."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="wenn">Wenn</sr>
+<sr t="die">die</sr>
+<sr t="Katze">Katze</sr>
+<sr t="aus">aus</sr> dem <sr t="Haus">
+<b>Haus</b>
+</sr> ist, <sr t="tanzen">tanzen</sr>
+<sr t="die">die</sr> Mäuse.</repr>
+<words>
+<word>Wenn die Katze aus dem Haus ist, tanzen die Mäuse.</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">Wenn</sr>
+<sr r="1">die</sr>
+<sr r="3">Katze</sr>
+<sr r="3">aus</sr>
+<sr r="1">dem</sr>
+<sr r="3">Haus</sr>
+<sr r="3">ist</sr>,<sr r="3">tanzen</sr>
+<sr r="1">die</sr>
+<sr r="3">Mäuse</sr>.
+</pword>
+</pwords>
+<search>
+<word>Katze</word>
+<word>aus</word>
+<word>Haus</word>
+<word>ist</word>
+<word>tanzen</word>
+<word>Mäuse</word>
+</search>
+<ibox ajaxid="3459629">
+<extlink/>
+<linguatec text="Wenn die Katze aus dem Haus ist, tanzen die Mäuse."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="793812" aiid="LHZ127uNdZm">
+<side hc="0" lang="en">
+<repr xml:space="preserve">When <sr t="the">the</sr>
+<sr t="cat">cat</sr>
+<sr t="is">is</sr>
+<sr t="away">away</sr>
+<sr t="the">the</sr> mice <sr t="will">will</sr>
+<sr t="play">play</sr>.
+</repr>
+<words>
+<word>When the cat is away the mice will play.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">When</sr>
+<sr r="1">the</sr>
+<sr r="3">cat</sr>
+<sr r="3">is</sr>
+<sr r="3">away</sr>
+<sr r="1">the</sr>
+<sr r="3">mice</sr>
+<sr r="3">will</sr>
+<sr r="3">play</sr>.
+</pword>
+</pwords>
+<search>
+<word>When</word>
+<word>cat</word>
+<word>is</word>
+<word>away</word>
+<word>mice</word>
+<word>will</word>
+<word>play</word>
+</search>
+<ibox ajaxid="1793812">
+<extlink/>
+<pron url="kSka489_yiao6ng1FcMncg">
+<file name="kSka489_yiao6ng1FcMncg" label="When the cat is away the mice will play."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="wenn">Wenn</sr>
+<sr t="die">die</sr>
+<sr t="Katze">Katze</sr>
+<sr t="aus">aus</sr> dem <sr t="Haus">
+<b>Haus</b>
+</sr> ist, <sr t="tanzen">tanzen</sr>
+<sr t="die">die</sr> Mäuse <sr t="auf">auf</sr> dem <sr t="Tisch">Tisch</sr>.
+</repr>
+<words>
+<word>Wenn die Katze aus dem Haus ist, tanzen die Mäuse auf dem Tisch.</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">Wenn</sr>
+<sr r="1">die</sr>
+<sr r="3">Katze</sr>
+<sr r="3">aus</sr>
+<sr r="1">dem</sr>
+<sr r="3">Haus</sr>
+<sr r="3">ist</sr>,<sr r="3">tanzen</sr>
+<sr r="1">die</sr>
+<sr r="3">Mäuse</sr>
+<sr r="3">auf</sr>
+<sr r="1">dem</sr>
+<sr r="3">Tisch</sr>.
+</pword>
+</pwords>
+<search>
+<word>Katze</word>
+<word>aus</word>
+<word>Haus</word>
+<word>ist</word>
+<word>tanzen</word>
+<word>Mäuse</word>
+<word>auf</word>
+<word>Tisch</word>
+</search>
+<ibox ajaxid="3793812">
+<extlink/>
+<pron url="K0AQ_o0ut9j323iesaRH1g">
+<file name="K0AQ_o0ut9j323iesaRH1g" label="Wenn die Katze aus dem Haus ist, tanzen die Mäuse auf dem Tisch."/>
+</pron>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="322004" aiid="KQntdCB4cZD">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="go">go</sr>
+<sr t="like">like</sr>
+<sr t="a">a</sr>
+<sr t="bull">bull</sr>
+<sr t="at">at</sr>
+<sr t="a">a</sr>
+<sr t="gate">gate</sr>
+</repr>
+<words>
+<word>to go like a bull at a gate</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">go</sr>
+<sr r="2">like</sr>
+<sr r="1">a</sr>
+<sr r="3">bull</sr>
+<sr r="2">at</sr>
+<sr r="1">a</sr>
+<sr r="3">gate</sr>
+</pword>
+</pwords>
+<search>
+<word>go</word>
+<word>bull</word>
+<word>gate</word>
+</search>
+<ibox ajaxid="1322004">
+<extlink/>
+<pron url="ZvqZEvIPCQk6jdG8_zXjKg">
+<file name="ZvqZEvIPCQk6jdG8_zXjKg" label="to go like a bull at a gate"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="mit">mit</sr>
+<sr t="der">der</sr>
+<sr t="T%C3%BCr">Tür</sr>
+<sr t="ins">ins</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="fallen">fallen</sr>
+</repr>
+<words>
+<word>mit der Tür ins Haus fallen</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">mit</sr>
+<sr r="1">der</sr>
+<sr r="3">Tür</sr>
+<sr r="2">ins</sr>
+<sr r="3">Haus</sr>
+<sr r="3">fallen</sr>
+</pword>
+</pwords>
+<search>
+<word>Tür</word>
+<word>Haus</word>
+<word>fallen</word>
+</search>
+<ibox ajaxid="3322004">
+<extlink/>
+<linguatec text="mit der Tür ins Haus fallen"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+</info>
+</entry>
+<entry uid="790306" aiid="MwcrpVJu2Ct">
+<side hc="0" lang="en">
+<repr xml:space="preserve">When <sr t="the">the</sr> cat's <sr t="away">away</sr>,<sr t="the">the</sr> mice <sr t="do">do</sr>
+<sr t="play">play</sr>
+</repr>
+<words>
+<word>When the cat's away, the mice do play</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">When</sr>
+<sr r="1">the</sr>
+<sr r="3">cat's</sr>
+<sr r="3">away</sr>,<sr r="1">the</sr>
+<sr r="3">mice</sr>
+<sr r="3">do</sr>
+<sr r="3">play</sr>
+</pword>
+</pwords>
+<search>
+<word>When</word>
+<word>cat's</word>
+<word>away</word>
+<word>mice</word>
+<word>do</word>
+<word>play</word>
+</search>
+<ibox ajaxid="1790306">
+<extlink/>
+<pron url="yItEHCaBu370pS8Xrw4YAw">
+<file name="yItEHCaBu370pS8Xrw4YAw" label="When the cat&apos;s away, the mice do play"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="wenn">Wenn</sr>
+<sr t="die">die</sr>
+<sr t="Katze">Katze</sr>
+<sr t="aus">aus</sr> dem <sr t="Haus">
+<b>Haus</b>
+</sr> ist, <sr t="tanzen">tanzen</sr>
+<sr t="die">die</sr> Mäuse</repr>
+<words>
+<word>Wenn die Katze aus dem Haus ist, tanzen die Mäuse</word>
+</words>
+<pwords>
+<pword>
+<sr r="2">Wenn</sr>
+<sr r="1">die</sr>
+<sr r="3">Katze</sr>
+<sr r="3">aus</sr>
+<sr r="1">dem</sr>
+<sr r="3">Haus</sr>
+<sr r="3">ist</sr>,<sr r="3">tanzen</sr>
+<sr r="1">die</sr>
+<sr r="3">Mäuse</sr>
+</pword>
+</pwords>
+<search>
+<word>Katze</word>
+<word>aus</word>
+<word>Haus</word>
+<word>ist</word>
+<word>tanzen</word>
+<word>Mäuse</word>
+</search>
+<ibox ajaxid="3790306">
+<extlink/>
+<linguatec text="Wenn die Katze aus dem Haus ist, tanzen die Mäuse"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="1175361" aiid="DtOjp5lV-XA">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="to">to</sr>
+<sr t="win">win</sr>
+<sr t="the">the</sr> White House <small>
+<i>[<m>
+<t n="phr_fig">fig.</t>
+</m>]
+</i>
+</small>
+<domain>
+<small>[<m>
+<t n="rea_pol:up">POL.</t>
+</m>]
+</small>
+</domain>
+</repr>
+<words>
+<word>to win the White House</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">to</sr>
+<sr r="3">win</sr>
+<sr r="1">the</sr>
+<sr r="3">White</sr>
+<sr r="3">House</sr>
+</pword>
+</pwords>
+<search>
+<word>win</word>
+<word>White</word>
+<word>House</word>
+</search>
+<meta></meta>
+<ibox ajaxid="11175361">
+<extlink/>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="es">es</sr>
+<sr t="ins">ins</sr> Weiße <sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="schaffen">schaffen</sr>
+<m>&#160;</m>
+<m>&#160;</m>
+<m>-</m>
+<small>
+<i>die Wahl gewinnen</i>
+</small>
+</repr>
+<words>
+<word>es ins Weiße Haus schaffen</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">es</sr>
+<sr r="2">ins</sr>
+<sr r="3">Weiße</sr>
+<sr r="3">Haus</sr>
+<sr r="3">schaffen</sr>
+</pword>
+</pwords>
+<search>
+<word>es</word>
+<word>Weiße</word>
+<word>Haus</word>
+<word>schaffen</word>
+</search>
+<ibox ajaxid="31175361">
+<extlink/>
+<linguatec text="es ins Weiße Haus schaffen"/>
+</ibox>
+</side>
+<info>
+<category type="verb" catnum="1"/>
+<realmgroup type="society"/>
+</info>
+</entry>
+</section>
+<section sctnum="7" sctName="example" sctTitle="Beispiele" sctCount="14" sctTotalCnt="14" sctDirectCnt="0">
+<entry uid="384972" aiid="DyE_9ho42xW">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="the">the</sr>
+<sr t="house">house</sr>
+<sr t="is">is</sr>
+<sr t="always">always</sr> untidy</repr>
+<words>
+<word>the house is always untidy</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">the</sr>
+<sr r="3">house</sr>
+<sr r="3">is</sr>
+<sr r="3">always</sr>
+<sr r="3">untidy</sr>
+</pword>
+</pwords>
+<search>
+<word>house</word>
+<word>is</word>
+<word>always</word>
+<word>untidy</word>
+</search>
+<ibox ajaxid="1384972">
+<extlink/>
+<pron url="8gKDUJGM6DdrS1RRo1cw5w">
+<file name="8gKDUJGM6DdrS1RRo1cw5w" label="the house is always untidy"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="das">das</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr> ist <sr t="immer">immer</sr>
+<sr t="unordentlich">unordentlich</sr>
+</repr>
+<words>
+<word>das Haus ist immer unordentlich</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">das</sr>
+<sr r="3">Haus</sr>
+<sr r="3">ist</sr>
+<sr r="3">immer</sr>
+<sr r="3">unordentlich</sr>
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>ist</word>
+<word>immer</word>
+<word>unordentlich</word>
+</search>
+<ibox ajaxid="3384972">
+<extlink/>
+<linguatec text="das Haus ist immer unordentlich"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="1176987" aiid="LAZXkrMSkNV">
+<side hc="0" lang="en">
+<repr xml:space="preserve">The <sr t="house">house</sr>
+<sr t="which">which</sr>
+<sr t="caught">caught</sr>
+<sr t="fire">fire</sr>
+<sr t="was">was</sr>
+<sr t="built">built</sr>
+<sr t="in">in</sr> the 18th <sr t="century">century</sr>.
+</repr>
+<words>
+<word>The house which caught fire was built in the 18th century.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">The</sr>
+<sr r="3">house</sr>
+<sr r="3">which</sr>
+<sr r="3">caught</sr>
+<sr r="3">fire</sr>
+<sr r="3">was</sr>
+<sr r="3">built</sr>
+<sr r="3">in</sr> the <sr r="3">18th</sr>
+<sr r="3">century</sr>.
+</pword>
+</pwords>
+<search>
+<word>The</word>
+<word>house</word>
+<word>which</word>
+<word>caught</word>
+<word>fire</word>
+<word>was</word>
+<word>built</word>
+<word>in</word>
+<word>18th</word>
+<word>century</word>
+</search>
+<ibox ajaxid="11176987">
+<extlink/>
+<pron url="kBhRsBereJ3Fa8P0b-0RhQ">
+<file name="kBhRsBereJ3Fa8P0b-0RhQ" label="The house which caught fire was built in the 18th century."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="das">Das</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>,<sr t="das">das</sr>
+<sr t="in">in</sr> Flammen aufging, wurde <sr t="im">im</sr> 18. <sr t="Jahrhundert">Jahrhundert</sr> erbaut.</repr>
+<words>
+<word>Das Haus, das in Flammen aufging, wurde im 18. Jahrhundert erbaut.</word>
+</words>
+<pwords>
+<pword>Das <sr r="3">Haus</sr>,<sr r="1">das</sr>
+<sr r="3">in</sr>
+<sr r="3">Flammen</sr>
+<sr r="3">aufging</sr>,<sr r="3">wurde</sr>
+<sr r="2">im</sr>
+<sr r="3">18</sr>.<sr r="3">Jahrhundert</sr>
+<sr r="3">erbaut</sr>.
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>in</word>
+<word>Flammen</word>
+<word>aufging</word>
+<word>wurde</word>
+<word>18</word>
+<word>Jahrhundert</word>
+<word>erbaut</word>
+</search>
+<ibox ajaxid="31176987">
+<extlink/>
+<linguatec text="Das Haus, das in Flammen aufging, wurde im 18. Jahrhundert erbaut."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="1176986" aiid="G2gBKK-Je6n">
+<side hc="0" lang="en">
+<repr xml:space="preserve">The <sr t="house">house</sr>
+<sr t="that">that</sr>
+<sr t="we">we</sr> lived <sr t="in">in</sr>
+<sr t="for">for</sr> 17 years has been pulled <sr t="down">down</sr>.
+</repr>
+<words>
+<word>The house that we lived in for 17 years has been pulled down.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">The</sr>
+<sr r="3">house</sr>
+<sr r="3">that</sr>
+<sr r="3">we</sr>
+<sr r="3">lived</sr>
+<sr r="3">in</sr>
+<sr r="3">for</sr>
+<sr r="3">17</sr>
+<sr r="3">years</sr>
+<sr r="3">has</sr>
+<sr r="3">been</sr>
+<sr r="3">pulled</sr>
+<sr r="3">down</sr>.
+</pword>
+</pwords>
+<search>
+<word>The</word>
+<word>house</word>
+<word>that</word>
+<word>we</word>
+<word>lived</word>
+<word>in</word>
+<word>for</word>
+<word>17</word>
+<word>years</word>
+<word>has</word>
+<word>been</word>
+<word>pulled</word>
+<word>down</word>
+</search>
+<ibox ajaxid="11176986">
+<extlink/>
+<pron url="z1IK9xkRtx08Vpz80LBmtg">
+<file name="z1IK9xkRtx08Vpz80LBmtg" label="The house that we lived in for 17 years has been pulled down."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="das">Das</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>,<sr t="in">in</sr> dem <sr t="wir">wir</sr> 17 Jahre <sr t="lang">lang</sr> gelebt <sr t="haben">haben</sr>, wurde <sr t="jetzt">jetzt</sr>
+<sr t="abgerissen">abgerissen</sr>.
+</repr>
+<words>
+<word>Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">Das</sr>
+<sr r="3">Haus</sr>,<sr r="3">in</sr>
+<sr r="1">dem</sr>
+<sr r="3">wir</sr>
+<sr r="3">17</sr>
+<sr r="3">Jahre</sr>
+<sr r="3">lang</sr>
+<sr r="3">gelebt</sr>
+<sr r="3">haben</sr>,<sr r="3">wurde</sr>
+<sr r="3">jetzt</sr>
+<sr r="3">abgerissen</sr>.
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>in</word>
+<word>wir</word>
+<word>17</word>
+<word>Jahre</word>
+<word>lang</word>
+<word>gelebt</word>
+<word>haben</word>
+<word>wurde</word>
+<word>jetzt</word>
+<word>abgerissen</word>
+</search>
+<ibox ajaxid="31176986">
+<extlink/>
+<linguatec text="Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="1176988" aiid="PehckRFTBZ_">
+<side hc="0" lang="en">
+<repr xml:space="preserve">The <sr t="house">house</sr>
+<sr t="which">which</sr>
+<sr t="we">we</sr> lived <sr t="in">in</sr>
+<sr t="for">for</sr> 17 years has been pulled <sr t="down">down</sr>.
+</repr>
+<words>
+<word>The house which we lived in for 17 years has been pulled down.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">The</sr>
+<sr r="3">house</sr>
+<sr r="3">which</sr>
+<sr r="3">we</sr>
+<sr r="3">lived</sr>
+<sr r="3">in</sr>
+<sr r="3">for</sr>
+<sr r="3">17</sr>
+<sr r="3">years</sr>
+<sr r="3">has</sr>
+<sr r="3">been</sr>
+<sr r="3">pulled</sr>
+<sr r="3">down</sr>.
+</pword>
+</pwords>
+<search>
+<word>The</word>
+<word>house</word>
+<word>which</word>
+<word>we</word>
+<word>lived</word>
+<word>in</word>
+<word>for</word>
+<word>17</word>
+<word>years</word>
+<word>has</word>
+<word>been</word>
+<word>pulled</word>
+<word>down</word>
+</search>
+<ibox ajaxid="11176988">
+<extlink/>
+<pron url="qfXcnQUBRbA9-JAtEQGvWA">
+<file name="qfXcnQUBRbA9-JAtEQGvWA" label="The house which we lived in for 17 years has been pulled down."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="das">Das</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>,<sr t="in">in</sr> dem <sr t="wir">wir</sr> 17 Jahre <sr t="lang">lang</sr> gelebt <sr t="haben">haben</sr>, wurde <sr t="jetzt">jetzt</sr>
+<sr t="abgerissen">abgerissen</sr>.
+</repr>
+<words>
+<word>Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen.</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">Das</sr>
+<sr r="3">Haus</sr>,<sr r="3">in</sr>
+<sr r="1">dem</sr>
+<sr r="3">wir</sr>
+<sr r="3">17</sr>
+<sr r="3">Jahre</sr>
+<sr r="3">lang</sr>
+<sr r="3">gelebt</sr>
+<sr r="3">haben</sr>,<sr r="3">wurde</sr>
+<sr r="3">jetzt</sr>
+<sr r="3">abgerissen</sr>.
+</pword>
+</pwords>
+<search>
+<word>Haus</word>
+<word>in</word>
+<word>wir</word>
+<word>17</word>
+<word>Jahre</word>
+<word>lang</word>
+<word>gelebt</word>
+<word>haben</word>
+<word>wurde</word>
+<word>jetzt</word>
+<word>abgerissen</word>
+</search>
+<ibox ajaxid="31176988">
+<extlink/>
+<linguatec text="Das Haus, in dem wir 17 Jahre lang gelebt haben, wurde jetzt abgerissen."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="387017" aiid="Hh_aUDBEiaA">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="a">a</sr> derelict <sr t="house">house</sr>
+</repr>
+<words>
+<word>a derelict house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">a</sr>
+<sr r="3">derelict</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>a</word>
+<word>derelict</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1387017">
+<extlink/>
+<pron url="4gGfYRwEaQ28hJ4fBiJhJw">
+<file name="4gGfYRwEaQ28hJ4fBiJhJw" label="a derelict house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="ein">ein</sr> heruntergekommenes <sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>ein heruntergekommenes Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">ein</sr>
+<sr r="3">heruntergekommenes</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>ein</word>
+<word>heruntergekommenes</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3387017">
+<extlink/>
+<linguatec text="ein heruntergekommenes Haus"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="381737" aiid="IR57dXmG-AI">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="at">at</sr>
+<sr t="the">the</sr>
+<sr t="back">back</sr>
+<sr t="of">of</sr>
+<sr t="the">the</sr>
+<sr t="house">house</sr>
+</repr>
+<words>
+<word>at the back of the house</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">at</sr>
+<sr r="1">the</sr>
+<sr r="3">back</sr>
+<sr r="3">of</sr>
+<sr r="1">the</sr>
+<sr r="3">house</sr>
+</pword>
+</pwords>
+<search>
+<word>at</word>
+<word>back</word>
+<word>of</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1381737">
+<extlink/>
+<pron url="0KEbgeercT-D09SlJU15ng">
+<file name="0KEbgeercT-D09SlJU15ng" label="at the back of the house"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="hinter">hinter</sr> dem <sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>hinter dem Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">hinter</sr>
+<sr r="3">dem</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>hinter</word>
+<word>dem</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3381737">
+<extlink/>
+<linguatec text="hinter dem Haus"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="377981" aiid="BYPPF1lAPYg">
+<side hc="0" lang="en">
+<repr xml:space="preserve">Don't <sr t="darken">darken</sr>
+<sr t="my">my</sr>
+<sr t="door">door</sr>
+<sr t="again">again</sr>.
+</repr>
+<words>
+<word>Don't darken my door again.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Don't</sr>
+<sr r="3">darken</sr>
+<sr r="3">my</sr>
+<sr r="3">door</sr>
+<sr r="3">again</sr>.
+</pword>
+</pwords>
+<search>
+<word>Don't</word>
+<word>darken</word>
+<word>my</word>
+<word>door</word>
+<word>again</word>
+</search>
+<ibox ajaxid="1377981">
+<extlink/>
+<pron url="ljaEpin2l9ZLOfzLyC1rXg">
+<file name="ljaEpin2l9ZLOfzLyC1rXg" label="Don&apos;t darken my door again."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">Komm <sr t="mir">mir</sr>
+<sr t="nie">nie</sr>
+<sr t="wieder">wieder</sr>
+<sr t="ins">ins</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>.
+</repr>
+<words>
+<word>Komm mir nie wieder ins Haus.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Komm</sr>
+<sr r="3">mir</sr>
+<sr r="3">nie</sr>
+<sr r="3">wieder</sr>
+<sr r="2">ins</sr>
+<sr r="3">Haus</sr>.
+</pword>
+</pwords>
+<search>
+<word>Komm</word>
+<word>mir</word>
+<word>nie</word>
+<word>wieder</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3377981">
+<extlink/>
+<linguatec text="Komm mir nie wieder ins Haus."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="377998" aiid="NSM7Rgu2lQC">
+<side hc="0" lang="en">
+<repr xml:space="preserve">Drinks <sr t="are">are</sr>
+<sr t="on">on</sr>
+<sr t="the">the</sr>
+<sr t="house">house</sr>.
+</repr>
+<words>
+<word>Drinks are on the house.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Drinks</sr>
+<sr r="3">are</sr>
+<sr r="3">on</sr>
+<sr r="1">the</sr>
+<sr r="3">house</sr>.
+</pword>
+</pwords>
+<search>
+<word>Drinks</word>
+<word>are</word>
+<word>on</word>
+<word>house</word>
+</search>
+<ibox ajaxid="1377998">
+<extlink/>
+<pron url="c3apjbvk68we1xHLvIr4yg">
+<file name="c3apjbvk68we1xHLvIr4yg" label="Drinks are on the house."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">Getränke <sr t="gehen">gehen</sr>
+<sr t="aufs">aufs</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>.
+</repr>
+<words>
+<word>Getränke gehen aufs Haus.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Getränke</sr>
+<sr r="3">gehen</sr>
+<sr r="2">aufs</sr>
+<sr r="3">Haus</sr>.
+</pword>
+</pwords>
+<search>
+<word>Getränke</word>
+<word>gehen</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="3377998">
+<extlink/>
+<linguatec text="Getränke gehen aufs Haus."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="1163525" aiid="H9WS5wFr12A">
+<side hc="0" lang="en">
+<repr xml:space="preserve">We <sr t="have">have</sr>
+<sr t="the">the</sr> builders <sr t="in">in</sr>.<small>
+<i>(Brit.)</i>
+</small>
+</repr>
+<words>
+<word>We have the builders in.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">We</sr>
+<sr r="3">have</sr>
+<sr r="1">the</sr>
+<sr r="3">builders</sr>
+<sr r="3">in</sr>.
+</pword>
+</pwords>
+<search>
+<word>We</word>
+<word>have</word>
+<word>builders</word>
+<word>in</word>
+</search>
+<ibox ajaxid="11163525">
+<extlink/>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="wir">Wir</sr>
+<sr t="haben">haben</sr>
+<sr t="die">die</sr> Handwerker <sr t="im">im</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+</repr>
+<words>
+<word>Wir haben die Handwerker im Haus</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Wir</sr>
+<sr r="3">haben</sr>
+<sr r="1">die</sr>
+<sr r="3">Handwerker</sr>
+<sr r="2">im</sr>
+<sr r="3">Haus</sr>
+</pword>
+</pwords>
+<search>
+<word>wir</word>
+<word>haben</word>
+<word>Handwerker</word>
+<word>Haus</word>
+</search>
+<ibox ajaxid="31163525">
+<extlink/>
+<linguatec text="Wir haben die Handwerker im Haus"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="1177021" aiid="FV0bUZFJz4w">
+<side hc="0" lang="en">
+<repr xml:space="preserve">This <sr t="house">house</sr>,<sr t="which">which</sr>
+<sr t="was">was</sr>
+<sr t="built">built</sr>
+<sr t="in">in</sr>
+<sr t="the">the</sr> 18th <sr t="century">century</sr>,<sr t="is">is</sr>
+<sr t="the">the</sr> oldest <sr t="building">building</sr>
+<sr t="in">in</sr>
+<sr t="town">town</sr>.
+</repr>
+<words>
+<word>This house, which was built in the 18th century, is the oldest building in town.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">This</sr>
+<sr r="3">house</sr>,<sr r="3">which</sr>
+<sr r="3">was</sr>
+<sr r="3">built</sr>
+<sr r="3">in</sr>
+<sr r="1">the</sr>
+<sr r="3">18th</sr>
+<sr r="3">century</sr>,<sr r="3">is</sr>
+<sr r="1">the</sr>
+<sr r="3">oldest</sr>
+<sr r="3">building</sr>
+<sr r="3">in</sr>
+<sr r="3">town</sr>.
+</pword>
+</pwords>
+<search>
+<word>This</word>
+<word>house</word>
+<word>which</word>
+<word>was</word>
+<word>built</word>
+<word>in</word>
+<word>18th</word>
+<word>century</word>
+<word>is</word>
+<word>oldest</word>
+<word>building</word>
+<word>town</word>
+</search>
+<ibox ajaxid="11177021">
+<extlink/>
+<pron url="vKWDZPaZc102papyF7smjg">
+<file name="vKWDZPaZc102papyF7smjg" label="This house, which was built in the 18th century, is the oldest building in town."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">Dieses <sr t="Haus">
+<b>Haus</b>
+</sr>,<sr t="das">das</sr>
+<sr t="im">im</sr> 18. <sr t="Jahrhundert">Jahrhundert</sr> erbaut wurde, ist <sr t="das">das</sr>
+<sr t="%C3%A4lteste">älteste</sr>
+<sr t="Geb%C3%A4ude">Gebäude</sr>
+<sr t="in">in</sr>
+<sr t="der">der</sr>
+<sr t="Stadt">Stadt</sr>.
+</repr>
+<words>
+<word>Dieses Haus, das im 18. Jahrhundert erbaut wurde, ist das älteste Gebäude in der Stadt.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Dieses</sr>
+<sr r="3">Haus</sr>,<sr r="1">das</sr>
+<sr r="2">im</sr>
+<sr r="3">18</sr>.<sr r="3">Jahrhundert</sr>
+<sr r="3">erbaut</sr>
+<sr r="3">wurde</sr>,<sr r="3">ist</sr>
+<sr r="1">das</sr>
+<sr r="3">älteste</sr>
+<sr r="3">Gebäude</sr>
+<sr r="3">in</sr>
+<sr r="1">der</sr>
+<sr r="3">Stadt</sr>.
+</pword>
+</pwords>
+<search>
+<word>Dieses</word>
+<word>Haus</word>
+<word>18</word>
+<word>Jahrhundert</word>
+<word>erbaut</word>
+<word>wurde</word>
+<word>ist</word>
+<word>älteste</word>
+<word>Gebäude</word>
+<word>in</word>
+<word>Stadt</word>
+</search>
+<ibox ajaxid="31177021">
+<extlink/>
+<linguatec text="Dieses Haus, das im 18. Jahrhundert erbaut wurde, ist das älteste Gebäude in der Stadt."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="1176991" aiid="McB0SHHCf6">
+<side hc="0" lang="en">
+<repr xml:space="preserve">The <sr t="people">people</sr>
+<sr t="whose">whose</sr>
+<sr t="house">house</sr>
+<sr t="this">this</sr>
+<sr t="is">is</sr> don't <sr t="know">know</sr> we're <sr t="here">here</sr>.
+</repr>
+<words>
+<word>The people whose house this is don't know we're here.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">The</sr>
+<sr r="3">people</sr>
+<sr r="3">whose</sr>
+<sr r="3">house</sr>
+<sr r="3">this</sr>
+<sr r="3">is</sr>
+<sr r="3">don't</sr>
+<sr r="3">know</sr>
+<sr r="3">we're</sr>
+<sr r="3">here</sr>.
+</pword>
+</pwords>
+<search>
+<word>The</word>
+<word>people</word>
+<word>whose</word>
+<word>house</word>
+<word>this</word>
+<word>is</word>
+<word>don't</word>
+<word>know</word>
+<word>we're</word>
+<word>here</word>
+</search>
+<ibox ajaxid="11176991">
+<extlink/>
+<pron url="rguaUuesKeUr2ZHYEZ-qRg">
+<file name="rguaUuesKeUr2ZHYEZ-qRg" label="The people whose house this is don&apos;t know we&apos;re here."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="die">Die</sr>
+<sr t="Leute">Leute</sr>, denen <sr t="das">das</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="geh%C3%B6rt">gehört</sr>,<sr t="wissen">wissen</sr>
+<sr t="nicht">nicht</sr>,<sr t="dass">dass</sr>
+<sr t="wir">wir</sr>
+<sr t="hier">hier</sr> sind.</repr>
+<words>
+<word>Die Leute, denen das Haus gehört, wissen nicht, dass wir hier sind.</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">Die</sr>
+<sr r="3">Leute</sr>,<sr r="3">denen</sr>
+<sr r="1">das</sr>
+<sr r="3">Haus</sr>
+<sr r="3">gehört</sr>,<sr r="3">wissen</sr>
+<sr r="3">nicht</sr>,<sr r="2">dass</sr>
+<sr r="3">wir</sr>
+<sr r="3">hier</sr>
+<sr r="3">sind</sr>.
+</pword>
+</pwords>
+<search>
+<word>Leute</word>
+<word>denen</word>
+<word>Haus</word>
+<word>gehört</word>
+<word>wissen</word>
+<word>nicht</word>
+<word>wir</word>
+<word>hier</word>
+<word>sind</word>
+</search>
+<ibox ajaxid="31176991">
+<extlink/>
+<linguatec text="Die Leute, denen das Haus gehört, wissen nicht, dass wir hier sind."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="379657" aiid="LFgNc-GQSOp">
+<side hc="0" lang="en">
+<repr xml:space="preserve">She believes <sr t="that">that</sr>
+<sr t="her">her</sr>
+<sr t="house">house</sr>
+<sr t="and">and</sr>
+<sr t="telephone">telephone</sr>
+<sr t="have">have</sr> been <sr t="bugged">bugged</sr>.
+</repr>
+<words>
+<word>She believes that her house and telephone have been bugged.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">She</sr>
+<sr r="3">believes</sr>
+<sr r="3">that</sr>
+<sr r="3">her</sr>
+<sr r="3">house</sr>
+<sr r="1">and</sr>
+<sr r="3">telephone</sr>
+<sr r="3">have</sr>
+<sr r="3">been</sr>
+<sr r="3">bugged</sr>.
+</pword>
+</pwords>
+<search>
+<word>She</word>
+<word>believes</word>
+<word>that</word>
+<word>her</word>
+<word>house</word>
+<word>telephone</word>
+<word>have</word>
+<word>been</word>
+<word>bugged</word>
+</search>
+<ibox ajaxid="1379657">
+<extlink/>
+<pron url="VsJR5pou3QkZlRrePFu_yQ">
+<file name="VsJR5pou3QkZlRrePFu_yQ" label="She believes that her house and telephone have been bugged."/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">Sie glaubt, <sr t="dass">dass</sr>
+<sr t="ihr">ihr</sr>
+<sr t="Haus">
+<b>Haus</b>
+</sr>
+<sr t="und">und</sr>
+<sr t="Telefon">Telefon</sr>
+<sr t="angezapft">angezapft</sr> worden sind.</repr>
+<words>
+<word>Sie glaubt, dass ihr Haus und Telefon angezapft worden sind.</word>
+</words>
+<pwords>
+<pword>
+<sr r="3">Sie</sr>
+<sr r="3">glaubt</sr>,<sr r="2">dass</sr>
+<sr r="3">ihr</sr>
+<sr r="3">Haus</sr>
+<sr r="2">und</sr>
+<sr r="3">Telefon</sr>
+<sr r="3">angezapft</sr>
+<sr r="3">worden</sr>
+<sr r="3">sind</sr>.
+</pword>
+</pwords>
+<search>
+<word>Sie</word>
+<word>glaubt</word>
+<word>ihr</word>
+<word>Haus</word>
+<word>Telefon</word>
+<word>angezapft</word>
+<word>worden</word>
+<word>sind</word>
+</search>
+<ibox ajaxid="3379657">
+<extlink/>
+<linguatec text="Sie glaubt, dass ihr Haus und Telefon angezapft worden sind."/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="385100" aiid="Bc1G-ZnlKHl">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="the">the</sr>
+<sr t="quantity">quantity</sr>
+<sr t="of">of</sr>
+<sr t="domestic">domestic</sr>
+<sr t="and">and</sr>
+<sr t="industrial">industrial</sr>
+<sr t="waste">waste</sr>
+</repr>
+<words>
+<word>the quantity of domestic and industrial waste</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">the</sr>
+<sr r="3">quantity</sr>
+<sr r="3">of</sr>
+<sr r="3">domestic</sr>
+<sr r="1">and</sr>
+<sr r="3">industrial</sr>
+<sr r="3">waste</sr>
+</pword>
+</pwords>
+<search>
+<word>quantity</word>
+<word>of</word>
+<word>domestic</word>
+<word>industrial</word>
+<word>waste</word>
+</search>
+<ibox ajaxid="1385100">
+<extlink/>
+<pron url="Xlfwb8_G3oP7vSl1iNSn1Q">
+<file name="Xlfwb8_G3oP7vSl1iNSn1Q" label="the quantity of domestic and industrial waste"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="das">das</sr> Aufkommen <sr t="an">an</sr>
+<b>Haus</b>-<sr t="und">und</sr> Industriemüll</repr>
+<words>
+<word>das Aufkommen an Haus- und Industriemüll</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">das</sr>
+<sr r="3">Aufkommen</sr>
+<sr r="3">an</sr>
+<sr r="3">Haus-</sr>
+<sr r="2">und</sr>
+<sr r="3">Industriemüll</sr>
+</pword>
+</pwords>
+<search>
+<word>Aufkommen</word>
+<word>an</word>
+<word>Haus-</word>
+<word>Industriemüll</word>
+</search>
+<ibox ajaxid="3385100">
+<extlink/>
+<linguatec text="das Aufkommen an Haus- und Industriemüll"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+<entry uid="781438" aiid="G8VpdQh8FWy">
+<side hc="0" lang="en">
+<repr xml:space="preserve">
+<sr t="the">the</sr>
+<sr t="two">two</sr> abutting houses</repr>
+<words>
+<word>the two abutting houses</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">the</sr>
+<sr r="3">two</sr>
+<sr r="3">abutting</sr>
+<sr r="3">houses</sr>
+</pword>
+</pwords>
+<search>
+<word>two</word>
+<word>abutting</word>
+<word>houses</word>
+</search>
+<ibox ajaxid="1781438">
+<extlink/>
+<pron url="RvVEaINMlUBLlF5zWLcONQ">
+<file name="RvVEaINMlUBLlF5zWLcONQ" label="the two abutting houses"/>
+</pron>
+</ibox>
+</side>
+<side hc="1" lang="de">
+<repr xml:space="preserve">
+<sr t="die">die</sr>
+<sr t="zwei">zwei</sr> aneinandergrenzenden <b>Häuser</b>
+</repr>
+<words>
+<word>die zwei aneinandergrenzenden Häuser</word>
+</words>
+<pwords>
+<pword>
+<sr r="1">die</sr>
+<sr r="3">zwei</sr>
+<sr r="3">aneinandergrenzenden</sr>
+<sr r="3">Häuser</sr>
+</pword>
+</pwords>
+<search>
+<word>zwei</word>
+<word>aneinandergrenzenden</word>
+<word>Häuser</word>
+</search>
+<ibox ajaxid="3781438">
+<extlink/>
+<linguatec text="die zwei aneinandergrenzenden Häuser"/>
+</ibox>
+</side>
+<info></info>
+</entry>
+</section>
+</sectionlist>
+<similar source="dictQuery">
+<side lang="en">
+<word>acus</word>
+<word>anus</word>
+<word>Apus</word>
+<word>Hans</word>
+<word>hash</word>
+<word>hasp</word>
+<word vocab="1">haul</word>
+<word>Hausa</word>
+<word>hush</word>
+<word>Hush</word>
+<word>husk</word>
+<word>rhus</word>
+<word vocab="1">thus</word>
+</side>
+<side lang="de">
+<word>Anus</word>
+<word vocab="1">aus</word>
+<word vocab="1">Aus</word>
+<word>Dhau</word>
+<word vocab="1">Hals</word>
+<word>Hans</word>
+<word>Hase</word>
+<word vocab="1">Hass</word>
+<word>Hast</word>
+<word>Haue</word>
+<word>Hausa</word>
+<word vocab="1">Haut</word>
+<word>Kaus</word>
+<word>Laus</word>
+<word vocab="1">Maus</word>
+<word vocab="1">raus</word>
+<word vocab="1">Raus</word>
+<word>Rhus</word>
+</side>
+</similar>
+<baseform>
+<side lang="en"></side>
+<side lang="de"></side>
+</baseform>
+<forumRef count="672" search="haus">
+<link href="/forum/viewUnsolvedquery.php?idThread=616815&#38;idForum=1" lastChangeDate="1226764388" lastChangeTime="" lastChangeEpochSec="1226764388" followupCnt="5" domain="">
+<subject>Haus im Haus</subject>
+<teaser>Context: Bei der Entwicklung des XXX wird die Idee des Haus im Haus verfolgt.  I understand what's m</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=244063&#38;idForum=1" lastChangeDate="1171052759" lastChangeTime="" lastChangeEpochSec="1171052759" followupCnt="4" domain="">
+<subject>Haus-im-Haus</subject>
+<teaser>Bei dieser Haus-im-Haus Variante verfügen Sie über Ihren eigenen exclusiven Eingang.</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=1346289&#38;idForum=1" lastChangeDate="1489487693" lastChangeTime="" lastChangeEpochSec="1489487693" followupCnt="11" domain="">
+<subject>Haus</subject>
+<teaser>Die beiden Software-Häuser Wilken und ThePeople.de arbeiten künftig im Rahmen einer Partnerschaft </teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=1288038&#38;idForum=1" lastChangeDate="1427309884" lastChangeTime="" lastChangeEpochSec="1427309884" followupCnt="11" domain="">
+<subject>Haus</subject>
+<teaser>I am wondering if "Haus" is a shortened form of Krankenhaus when talking about tuberculosis sanatori</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=1001761&#38;idForum=1" lastChangeDate="1288467789" lastChangeTime="" lastChangeEpochSec="1288467789" followupCnt="4" domain="">
+<subject>Haus</subject>
+<teaser>Den Sommer 1939 verbrachten wir in Haus Buchenrode.  Can I use "house Buchenrode" in this context? T</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=579628&#38;idForum=1" lastChangeDate="1221581750" lastChangeTime="" lastChangeEpochSec="1221581750" followupCnt="7" domain="">
+<subject>von Haus zu Haus</subject>
+<teaser>Mit den besten Grüssen von Haus zu Haus Closing lines on a letter between ministers of state.  Any </teaser>
+</link>
+<link href="/forum/viewWrongentry.php?idThread=1354567&#38;idForum=6" lastChangeDate="1499710124" lastChangeTime="" lastChangeEpochSec="1499710124" followupCnt="4" domain="">
+<subject>gaff - Haus</subject>
+<teaser>In www.urbandictionary.com mit Beispiel aufgeführt (dort heißt es hauptsächlich Irisch, aber auch</teaser>
+</link>
+<link href="/forum/viewWrongentry.php?idThread=1153506&#38;idForum=6" lastChangeDate="1338302487" lastChangeTime="" lastChangeEpochSec="1338302487" followupCnt="4" domain="">
+<subject>House - Haus</subject>
+<teaser>http://www.dict.cc/englisch-deutsch/house.html</teaser>
+</link>
+<link href="/forum/viewWrongentry.php?idThread=830967&#38;idForum=6" lastChangeDate="1257688051" lastChangeTime="" lastChangeEpochSec="1257688051" followupCnt="2" domain="">
+<subject>heezy - Haus</subject>
+<teaser>Tyrell: "What are you gonna do with LaTanya tonight?"  Jameel:"I'm fin' to take her to da Waffle Hou</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=210344&#38;idForum=1" lastChangeDate="1163544882" lastChangeTime="" lastChangeEpochSec="1163544882" followupCnt="2" domain="">
+<subject>von Haus zu Haus umherziehen</subject>
+<teaser>Ich soll das Martinsfest beschreiben:  Alle Kinder ziehen mit ihren Laternen von Haus zu Haus und Si</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=154185&#38;idForum=1" lastChangeDate="1107980545" lastChangeTime="" lastChangeEpochSec="1107980545" followupCnt="1" domain="">
+<subject>außer Haus</subject>
+<teaser>außerhalb der Bank</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=177758&#38;idForum=1" lastChangeDate="1085481828" lastChangeTime="" lastChangeEpochSec="1085481828" followupCnt="4" domain="">
+<subject>im Haus</subject>
+<teaser>Die Wandler auf der Interfaceplatine können aufgrund von Isolationsproblemen ausfallen. Es wurden a</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=129065&#38;idForum=1" lastChangeDate="1141134673" lastChangeTime="" lastChangeEpochSec="1141134673" followupCnt="2" domain="">
+<subject>Haus-Pfanne</subject>
+<teaser>s. u. Die Hauspfanne ist ein Gericht mit gegrilltem Fleisch, das in einer Pfanne serviert wird. (Hab</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=183161&#38;idForum=1" lastChangeDate="1095840686" lastChangeTime="" lastChangeEpochSec="1095840686" followupCnt="1" domain="">
+<subject>Abbruchreifes Haus ????</subject>
+<teaser>http://www.amazing.com/politics/malibu/ Gesucht: sinngemäße Übersetzung von "teardowns" Turns out</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=134563&#38;idForum=1" lastChangeDate="1143720390" lastChangeTime="" lastChangeEpochSec="1143720390" followupCnt="5" domain="">
+<subject>im Haus</subject>
+<teaser>Wir haben Musterstücke im Haus.   Bei dieser Aussage bezieht sich "im Haus" auf ein Firmengebäude!</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=134710&#38;idForum=1" lastChangeDate="1143745149" lastChangeTime="" lastChangeEpochSec="1143745149" followupCnt="3" domain="">
+<subject>haus gegenüber</subject>
+<teaser>das gegenüberliegende haus</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=100505&#38;idForum=1" lastChangeDate="1120556754" lastChangeTime="" lastChangeEpochSec="1120556754" followupCnt="6" domain="">
+<subject>ab haus</subject>
+<teaser>Alle Preise gelten in EURO ab Haus zuzüglich Versand-, Versicherungs- und Verpackungskosten. doesn'</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=107732&#38;idForum=1" lastChangeDate="1125431184" lastChangeTime="" lastChangeEpochSec="1125431184" followupCnt="0" domain="">
+<subject>vierraengiges Haus</subject>
+<teaser>1875 erfolgte der Neubau eines vierraengigen Hauses im Barocktheaterstil. vierraengig - with four fl</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=93729&#38;idForum=1" lastChangeDate="1114925751" lastChangeTime="" lastChangeEpochSec="1114925751" followupCnt="11" domain="">
+<subject>Besetztes Haus</subject>
+<teaser>Er wohnt in einem besetztem Haus.</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=324267&#38;idForum=1" lastChangeDate="1185105488" lastChangeTime="" lastChangeEpochSec="1185105488" followupCnt="3" domain="">
+<subject>großzügiges Haus</subject>
+<teaser>Er baute ein großzügiges Haus. Danke</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=279900&#38;idForum=1" lastChangeDate="1177272385" lastChangeTime="" lastChangeEpochSec="1177272385" followupCnt="3" domain="">
+<subject>Haus(wein)</subject>
+<teaser>unser Hauswein  Müller Thurgau / Saale Unstrut  house wine?  nicht im Sinne von selbst ge</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=400078&#38;idForum=1" lastChangeDate="1197044193" lastChangeTime="" lastChangeEpochSec="1197044193" followupCnt="7" domain="">
+<subject>Haus-/Grundbesitzerhaftpflichtversicherung</subject>
+<teaser>Die Haus- und Grundbesitzerhaftpflichtversicherung deckt schäden in Höhe von EUR ... ab.  This reg</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=470301&#38;idForum=1" lastChangeDate="1206726862" lastChangeTime="" lastChangeEpochSec="1206726862" followupCnt="1" domain="">
+<subject>"Haus Waldheide"</subject>
+<teaser>als Überschrift eines Werbeartikels  wie kann ich das übersetzen? "House Waldheide" "Home Waldheid</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=485991&#38;idForum=1" lastChangeDate="1208559851" lastChangeTime="" lastChangeEpochSec="1208559851" followupCnt="3" domain="">
+<subject>im Haus</subject>
+<teaser>Dr. Remini ist zurzeit nicht im Haus.  Tja, wie sagt man das wohl auf Englisch...? ;) 'in the house'</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=155174&#38;idForum=1" lastChangeDate="1108839381" lastChangeTime="" lastChangeEpochSec="1108839381" followupCnt="1" domain="">
+<subject>hellhöriges Haus</subject>
+<teaser>http://www.hausinfo.ch/home/de/bau_unterhalt/fenster/laermschutz.html Um sicher zu gehen, dass man k</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=655900&#38;idForum=1" lastChangeDate="1232485726" lastChangeTime="" lastChangeEpochSec="1232485726" followupCnt="4" domain="">
+<subject>normales haus</subject>
+<teaser>die meisten Aborigines leben heute in normalen häusern (eben nicht mehr im busch)  was sagt man da </teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=721513&#38;idForum=1" lastChangeDate="1241156774" lastChangeTime="" lastChangeEpochSec="1241156774" followupCnt="5" domain="">
+<subject>selbstversorgendes Haus</subject>
+<teaser>Ein selbstversorgendes Haus ist für einen deutschen Bauherrn noch relativ teuer..  Gemeint ist eine</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=637541&#38;idForum=1" lastChangeDate="1229528346" lastChangeTime="" lastChangeEpochSec="1229528346" followupCnt="2" domain="">
+<subject>im Haus</subject>
+<teaser>Mit dem parametrierbaren Shaft hat "Kling Klang" das Antriebs-Know-how im Haus.  Ist dieser Satz sch</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=240220&#38;idForum=1" lastChangeDate="1170326291" lastChangeTime="" lastChangeEpochSec="1170326291" followupCnt="9" domain="">
+<subject>außer Haus</subject>
+<teaser>im Sinne von außerhalb der Firma, durch eine andere Firma, nicht firmenintern</teaser>
+</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=240892&#38;idForum=1" lastChangeDate="1170430097" lastChangeTime="" lastChangeEpochSec="1170430097" followupCnt="4" domain="">
+<subject>frei haus</subject>
+<teaser>XXX ist verpflichtet, die Lagerbestände nach Vertragsbeendigung in einwandfreiem Zustand an ZZZ fre</teaser>
+</link>
+</forumRef>
+<forum>
+<link href="/forum/viewUnsolvedquery.php?idThread=616815&#38;idForum=1">Haus im Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=244063&#38;idForum=1">Haus-im-Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=1346289&#38;idForum=1">Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=1288038&#38;idForum=1">Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=1001761&#38;idForum=1">Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=579628&#38;idForum=1">von Haus zu Haus</link>
+<link href="/forum/viewWrongentry.php?idThread=1354567&#38;idForum=6">gaff - Haus</link>
+<link href="/forum/viewWrongentry.php?idThread=1153506&#38;idForum=6">House - Haus</link>
+<link href="/forum/viewWrongentry.php?idThread=830967&#38;idForum=6">heezy - Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=210344&#38;idForum=1">von Haus zu Haus umherziehen</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=154185&#38;idForum=1">außer Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=177758&#38;idForum=1">im Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=129065&#38;idForum=1">Haus-Pfanne</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=183161&#38;idForum=1">Abbruchreifes Haus ????</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=134563&#38;idForum=1">im Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=134710&#38;idForum=1">haus gegenüber</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=100505&#38;idForum=1">ab haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=107732&#38;idForum=1">vierraengiges Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=93729&#38;idForum=1">Besetztes Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=324267&#38;idForum=1">großzügiges Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=279900&#38;idForum=1">Haus(wein)</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=400078&#38;idForum=1">Haus-/Grundbesitzerhaftpflichtversicherung</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=470301&#38;idForum=1">"Haus Waldheide"</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=485991&#38;idForum=1">im Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=155174&#38;idForum=1">hellhöriges Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=655900&#38;idForum=1">normales haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=721513&#38;idForum=1">selbstversorgendes Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=637541&#38;idForum=1">im Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=240220&#38;idForum=1">außer Haus</link>
+<link href="/forum/viewUnsolvedquery.php?idThread=240892&#38;idForum=1">frei haus</link>
+</forum>
+<grammar count="91" search="haus">
+<snippet score="4.47358" snippetid="1.2.2" path="Wort/Nomen/Kategorien/Kategorien.xml" langwriting="de" langabout="de">
+<title>Die grammatischen Kategorien des Nomens</title>
+<teaser>Die Nomen sind im Deutschen durch drei grammatische Kategorien charakterisiert.</teaser>
+</snippet>
+<snippet score="4.242404" snippetid="3.3.7" path="Satz/Satzgliedbau/Praepositional.xml" langwriting="de" langabout="de">
+<title>Präpositionalgruppe</title>
+<teaser>Eine Präpositionalgruppe ist eine Wortgruppe, die von einer Präposition eingeleitet wird.</teaser>
+</snippet>
+<snippet score="4.140944" snippetid="2.2" path="nouns_genitive.php" langwriting="de" langabout="en">
+<title>Der Genitiv</title>
+<teaser>• Bei Menschen und Tieren im Singular fügt man ein -’s an das Substantiv an (s-Genitiv).• Bei Menschen und Tieren im Plural wird bei regelmäßiger Pluralform ein einfacher Apostroph ’ hinzugefügt, bei unregelmäßiger Pluralform der s-Genitiv verwendet. • Bei abstrakten Begriffen wird dem Substantiv für die Genitivbildung so gut wie immer of the vorangestellt, das Substantiv selbst bleibt dann unverändert (of-Genitiv). Bei konkreten Dingen ist die Handhabung wie bei Menschen und Tieren möglich, aber auch hier wird der of-Genitiv wesentlich häufiger verwendet.</teaser>
+</snippet>
+<snippet score="4.093219" snippetid="3.3.1" path="Satz/Satzgliedbau/Attribut.xml" langwriting="de" langabout="de">
+<title>Attribute</title>
+<teaser>Ein Attribut ist eine Beifügung zu einem Wort (z. B. zu einem Nomen), die dieses näher bestimmt.</teaser>
+</snippet>
+<snippet score="3.5496259" snippetid="4.1.1" path="Rechtschreibung/Regeln/Laut-Buchstabe/index.xml" langwriting="de" langabout="de">
+<title>Laute und Buchstaben</title>
+<teaser>Die deutsche Rechtschreibung gründet auf dem Prinzip, dass bestimmte Laute durch bestimmte Buchstaben wiedergegeben werden. Sprachlaute und Buchstaben sind einander zugeordnet. Was gleich ausgesprochen wird, wird im Prinzip auch gleich geschrieben.</teaser>
+</snippet>
+<snippet score="3.4329755" snippetid="7.4" path="conjunctions_ambig.php" langwriting="de" langabout="en">
+<title>Wörter, die nicht nur als Konjunktion verwendet werden können</title>
+<teaser>Manche englischen Wörter können sowohl als Konjunktion als auch als Präposition verwendet werden: Dabei bezieht sich die Konjunktion auf einen Nebensatz und die Präposition auf ein Substantiv oder Pronomen. In einigen Fällen ist die deutsche Entsprechung je nach Wortart unterschiedlich, weshalb es sich lohnt, die Wortart erkennen zu können.</teaser>
+</snippet>
+<snippet score="2.5728266" snippetid="3.3.6.b" path="Satz/Satzgliedbau/Adverb.xml" langwriting="de" langabout="de">
+<title>Funktionen</title>
+<teaser>Sie hat ihn damals vor dem Krieg kennen gelernt.</teaser>
+</snippet>
+<snippet score="2.4262295" snippetid="1.3.2.3.8.a" path="Wort/Verb/Kategorien/Tempora/Zeitfolge.xml" langwriting="de" langabout="de">
+<title>Gleichzeitigkeit</title>
+<teaser>Wenn das Geschehen im Haupt- und im Nebensatz gleichzeitig abläuft, verwendet man in der Regel in beiden Sätzen das gleiche Tempus.</teaser>
+</snippet>
+<snippet score="2.2570276" snippetid="2.1.1.4.8.a" path="Wortbildungsregeln/Derivation/To-N/Suffixe/erchen.xml" langwriting="de" langabout="de">
+<title>Nomen zu Nomen</title>
+<teaser>Kind + erchen</teaser>
+</snippet>
+<snippet score="2.2513938" snippetid="3.7.1.1" path="Satz/Negation/Negationswort/Verstaerkung.xml" langwriting="de" langabout="de">
+<title>Verstärkung</title>
+<teaser>Kommst du? - Nein.</teaser>
+</snippet>
+</grammar>
+<ffsynlist word="haus">
+<side lang="en"></side>
+<side lang="de">
+<word vocab="1">drinnen</word>
+<word vocab="1">innen</word>
+<word>inwendig</word>
+<word>House</word>
+<word>Hause</word>
+<word>gebietsansässig</word>
+<word>Hallen...</word>
+<word>Wohnort</word>
+</side>
+</ffsynlist>
+<servicedata entries="832.964" queries="3.514.568" hostName="leo22" timeUsed="24000/0" login="false" nick="" swName="LEO GmbH, dictQuery/Sr - Version 5.47ip6/20230316130304" osName="Linux"/>
+</xml>
