@@ -1,9 +1,12 @@
-## Tiny Morse Translate
-Input your word through a button with Morse - Code -> get the translated word vibrated to you in Morse code
+# TinyMorseTranslate
 
-main.py - python server with translation functions (google translate api)
-old__main.py - attempt to implement translation through web-scrapping of the leo.dict 
+**TinyMorseTranslate** is a device designed for Morse code translation. Input Morse through button presses and receive text feedback via vibrations or display. Built in one night to aid in passing the **B1 ÖIF Test**, it’s an accessible, practical tool for Morse learning and interaction.
 
-/scr/ - source for the device itself
+**Features:**
+- **Button Input**: Press a button for `.` (dot) or `_` (dash).
+- **Feedback**: Vibrates as Morse output.
+- **Quick Translation**: Converts Morse ↔ Text.
 
-This little device was invented in the night right before my B1 ÖIF Test and helped me to pass it ;)
+**Components:**
+- **Arduino C++ Code**: Real-time handling of button inputs.
+- **Python Server**: Google Translate API for text translation.
