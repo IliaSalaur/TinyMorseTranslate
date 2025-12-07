@@ -9,4 +9,4 @@
 
 **Components:**
 - **Arduino C++ Code**: Real-time handling of button inputs.
-- **Python Server**: Google Translate API for text translation.
+- **Python Server**: Google Translate API for text translation. Deployed on Vercel
